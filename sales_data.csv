@@ -1,0 +1,1001 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method
+14,01/29/2024,Beauty Products,Neutrogena Skincare Set,6,285.38,1712.28,North America,Credit Card
+18,02/09/2023,Beauty Products,Chanel No. 5 Perfume,12,52.35,628.2,Asia,Credit Card
+25,10/04/2021,Beauty Products,Dyson Supersonic Hair Dryer,99,415.66,41150.34,North America,Debit Card
+29,01/22/2021,Beauty Products,Olay Regenerist Face Cream,87,489.98,42628.26,Asia,Debit Card
+33,04/20/2022,Beauty Products,Neutrogena Skincare Set,78,175.75,13708.5,North America,Credit Card
+42,07/17/2022,Beauty Products,Chanel No. 5 Perfume,89,345.04,30708.56,North America,Credit Card
+48,04/21/2023,Beauty Products,Dyson Supersonic Hair Dryer,28,397.93,11142.04,Europe,Debit Card
+58,07/19/2022,Beauty Products,Olay Regenerist Face Cream,23,432.37,9944.51,North America,Credit Card
+61,04/02/2021,Beauty Products,MAC Ruby Woo Lipstick,11,152.39,1676.29,North America,PayPal
+66,02/15/2023,Beauty Products,Neutrogena Skincare Set,74,399.05,29529.7,Europe,Debit Card
+67,02/04/2021,Beauty Products,Neutrogena Skincare Set,93,253.66,23590.38,North America,PayPal
+68,07/25/2021,Beauty Products,Neutrogena Skincare Set,10,176.49,1764.9,Europe,PayPal
+76,12/04/2022,Beauty Products,Neutrogena Skincare Set,76,89.19,6778.44,North America,Debit Card
+82,09/27/2021,Beauty Products,Neutrogena Skincare Set,37,280.73,10387.01,North America,Debit Card
+91,05/29/2023,Beauty Products,Neutrogena Skincare Set,6,55.77,334.62,Asia,Credit Card
+100,03/26/2024,Beauty Products,Neutrogena Skincare Set,29,324.91,9422.39,Asia,Debit Card
+106,10/10/2022,Beauty Products,Neutrogena Skincare Set,33,91.36,3014.88,Europe,PayPal
+110,01/27/2022,Beauty Products,Neutrogena Skincare Set,20,92.74,1854.8,Asia,Credit Card
+111,02/23/2022,Beauty Products,Neutrogena Skincare Set,53,258.46,13698.38,Europe,Debit Card
+119,07/20/2021,Beauty Products,Neutrogena Skincare Set,39,484.2,18883.8,North America,PayPal
+125,02/11/2022,Beauty Products,Neutrogena Skincare Set,44,247.83,10904.52,North America,Debit Card
+127,04/09/2021,Beauty Products,Neutrogena Skincare Set,84,365.34,30688.56,Asia,Debit Card
+129,12/27/2022,Beauty Products,Lancome La Vie Est Belle,45,498.57,22435.65,Asia,PayPal
+130,08/19/2023,Beauty Products,Drunk Elephant C-Firma Day Serum,52,490.09,25484.68,North America,Credit Card
+131,09/05/2022,Beauty Products,Glossier Boy Brow,80,331.51,26520.8,Asia,PayPal
+134,05/26/2024,Beauty Products,Charlotte Tilbury Magic Cream,85,55.58,4724.3,Europe,PayPal
+144,05/14/2023,Beauty Products,Neutrogena Skincare Set,55,382.2,21021,North America,Credit Card
+156,11/26/2023,Beauty Products,Neutrogena Skincare Set,72,362.35,26089.2,Europe,PayPal
+167,11/18/2023,Beauty Products,Neutrogena Skincare Set,48,134.45,6453.6,North America,Debit Card
+168,09/25/2024,Beauty Products,Neutrogena Skincare Set,69,25.25,1742.25,Asia,PayPal
+176,07/30/2024,Beauty Products,Neutrogena Skincare Set,73,495.95,36204.35,Europe,PayPal
+183,12/05/2024,Beauty Products,Neutrogena Skincare Set,77,43.57,3354.89,Asia,PayPal
+184,10/11/2022,Beauty Products,Neutrogena Skincare Set,31,383.95,11902.45,Asia,Credit Card
+193,03/18/2022,Beauty Products,Neutrogena Skincare Set,13,438.37,5698.81,Europe,Debit Card
+195,07/15/2024,Beauty Products,Neutrogena Skincare Set,83,92.85,7706.55,Europe,Credit Card
+200,01/10/2024,Beauty Products,Neutrogena Skincare Set,71,73.14,5192.94,Europe,PayPal
+224,07/17/2021,Beauty Products,Neutrogena Skincare Set,66,139.02,9175.32,Europe,PayPal
+227,05/24/2021,Beauty Products,Neutrogena Skincare Set,3,149.08,447.24,Asia,Credit Card
+233,04/09/2022,Beauty Products,Neutrogena Skincare Set,70,41.6,2912,Europe,Debit Card
+243,05/04/2022,Beauty Products,Neutrogena Skincare Set,79,220.3,17403.7,Europe,Credit Card
+246,12/04/2021,Beauty Products,Neutrogena Skincare Set,43,290.94,12510.42,Asia,PayPal
+253,09/20/2021,Beauty Products,Anastasia Beverly Hills Brow Wiz,23,26,598,North America,Debit Card
+255,12/12/2021,Beauty Products,Lancome La Vie Est Belle,47,41.7,1959.9,Europe,Credit Card
+256,09/16/2022,Beauty Products,Drunk Elephant C-Firma Day Serum,15,478.35,7175.25,Asia,Debit Card
+274,06/01/2021,Beauty Products,Glossier Boy Brow,35,485.68,16998.8,North America,PayPal
+285,05/25/2022,Beauty Products,Charlotte Tilbury Magic Cream,89,454.62,40461.18,North America,Debit Card
+290,12/04/2021,Beauty Products,Sunday Riley Good Genes,74,315.03,23312.22,North America,Debit Card
+293,08/15/2023,Beauty Products,Neutrogena Skincare Set,31,242.4,7514.4,Europe,PayPal
+305,11/19/2022,Beauty Products,Neutrogena Skincare Set,54,31.75,1714.5,Asia,PayPal
+307,08/13/2023,Beauty Products,Neutrogena Skincare Set,44,410.17,18047.48,North America,Debit Card
+312,02/07/2021,Beauty Products,Neutrogena Skincare Set,21,291.64,6124.44,Asia,Credit Card
+314,10/20/2024,Beauty Products,Neutrogena Skincare Set,92,340.96,31368.32,Asia,Credit Card
+317,07/30/2024,Beauty Products,Neutrogena Skincare Set,9,465.42,4188.78,North America,Debit Card
+322,10/11/2021,Beauty Products,Neutrogena Skincare Set,72,338.76,24390.72,North America,Credit Card
+330,04/30/2024,Beauty Products,Neutrogena Skincare Set,50,11.03,551.5,North America,Credit Card
+331,12/09/2023,Beauty Products,Neutrogena Skincare Set,24,361.61,8678.64,Asia,Credit Card
+336,04/22/2022,Beauty Products,Neutrogena Skincare Set,89,335.99,29903.11,Asia,PayPal
+355,07/17/2023,Beauty Products,GlamGlow Supermud Clearing Treatment,35,94.21,3297.35,Asia,PayPal
+365,09/18/2022,Beauty Products,Neutrogena Skincare Set,25,51.35,1283.75,Europe,Debit Card
+366,08/04/2024,Beauty Products,Neutrogena Skincare Set,2,205.69,411.38,Asia,Debit Card
+368,08/20/2023,Beauty Products,Neutrogena Skincare Set,35,405.93,14207.55,Asia,Debit Card
+372,02/24/2023,Beauty Products,Neutrogena Skincare Set,67,43.02,2882.34,Europe,Credit Card
+379,06/22/2022,Beauty Products,Neutrogena Skincare Set,46,299.24,13765.04,North America,PayPal
+384,06/22/2023,Beauty Products,Neutrogena Skincare Set,32,382.08,12226.56,Europe,Credit Card
+387,01/20/2021,Beauty Products,Neutrogena Skincare Set,97,16.03,1554.91,North America,Debit Card
+394,03/12/2024,Beauty Products,Neutrogena Skincare Set,41,326.41,13382.81,North America,Debit Card
+396,10/09/2024,Beauty Products,Neutrogena Skincare Set,13,383.33,4983.29,North America,Credit Card
+398,12/28/2022,Beauty Products,Neutrogena Skincare Set,60,176.49,10589.4,North America,PayPal
+401,07/29/2022,Beauty Products,Neutrogena Skincare Set,5,13.29,66.45,North America,Debit Card
+412,09/30/2023,Beauty Products,Neutrogena Skincare Set,3,92.01,276.03,Asia,PayPal
+416,09/21/2021,Beauty Products,Neutrogena Skincare Set,87,270.64,23545.68,North America,PayPal
+417,12/13/2023,Beauty Products,Neutrogena Skincare Set,44,76.54,3367.76,North America,PayPal
+428,05/17/2023,Beauty Products,Chanel No. 5 Perfume,36,191.49,6893.64,North America,Debit Card
+440,10/01/2024,Beauty Products,Dyson Supersonic Hair Dryer,12,490.25,5883,Asia,PayPal
+446,10/10/2023,Beauty Products,Olay Regenerist Face Cream,3,184.53,553.59,Asia,PayPal
+452,02/16/2024,Beauty Products,MAC Ruby Woo Lipstick,84,125.17,10514.28,Asia,Credit Card
+459,12/05/2022,Beauty Products,L'Oreal Revitalift Serum,82,410.21,33637.22,Asia,PayPal
+468,01/15/2024,Beauty Products,Estee Lauder Advanced Night Repair,36,82.51,2970.36,North America,Debit Card
+473,12/07/2023,Beauty Products,Clinique Moisture Surge,2,300.58,601.16,Europe,Credit Card
+481,08/06/2021,Beauty Products,Shiseido Ultimate Sun Protector,23,343.57,7902.11,Asia,Credit Card
+483,03/08/2022,Beauty Products,Anastasia Beverly Hills Brow Wiz,68,26.89,1828.52,Europe,PayPal
+493,04/18/2024,Beauty Products,Lancome La Vie Est Belle,12,285.73,3428.76,Europe,Credit Card
+498,10/13/2023,Beauty Products,Drunk Elephant C-Firma Day Serum,45,365.6,16452,North America,Debit Card
+502,03/03/2023,Beauty Products,Estee Lauder Advanced Night Repair,30,305.04,9151.2,Asia,PayPal
+507,06/09/2021,Beauty Products,Estee Lauder Advanced Night Repair,7,39.14,273.98,North America,Credit Card
+520,01/12/2021,Beauty Products,Estee Lauder Advanced Night Repair,20,24.97,499.4,Asia,PayPal
+523,05/14/2022,Beauty Products,Estee Lauder Advanced Night Repair,25,319.95,7998.75,Europe,PayPal
+529,02/15/2023,Beauty Products,Estee Lauder Advanced Night Repair,95,398.76,37882.2,Europe,Debit Card
+532,10/19/2023,Beauty Products,Estee Lauder Advanced Night Repair,80,497.38,39790.4,North America,PayPal
+535,09/09/2022,Beauty Products,Estee Lauder Advanced Night Repair,3,31.64,94.92,Europe,Debit Card
+545,01/31/2023,Beauty Products,Estee Lauder Advanced Night Repair,68,61.16,4158.88,Europe,PayPal
+546,11/07/2022,Beauty Products,Estee Lauder Advanced Night Repair,25,205.56,5139,Europe,PayPal
+552,01/28/2024,Beauty Products,Estee Lauder Advanced Night Repair,32,279.07,8930.24,Europe,PayPal
+555,04/06/2021,Beauty Products,Estee Lauder Advanced Night Repair,13,351.9,4574.7,Asia,Debit Card
+557,04/28/2024,Beauty Products,Estee Lauder Advanced Night Repair,78,59.46,4637.88,Asia,PayPal
+566,08/19/2022,Beauty Products,Estee Lauder Advanced Night Repair,43,336.76,14480.68,Europe,Credit Card
+571,11/09/2023,Beauty Products,GlamGlow Supermud Clearing Treatment,31,84.64,2623.84,Europe,PayPal
+578,03/31/2022,Beauty Products,Youth to the People Superfood Antioxidant Cleanser,11,26.5,291.5,Asia,Credit Card
+581,11/08/2024,Beauty Products,Neutrogena Hydro Boost Water Gel,56,382.21,21403.76,Asia,Credit Card
+590,08/06/2023,Beauty Products,Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant,28,236.95,6634.6,North America,Credit Card
+591,06/10/2023,Beauty Products,First Aid Beauty Ultra Repair Cream,62,124.98,7748.76,North America,Debit Card
+592,03/20/2024,Beauty Products,Estee Lauder Advanced Night Repair,7,158.57,1109.99,North America,Credit Card
+599,07/24/2023,Beauty Products,Estee Lauder Advanced Night Repair,17,87.73,1491.41,Asia,Debit Card
+606,01/03/2023,Beauty Products,Estee Lauder Advanced Night Repair,63,102.63,6465.69,Asia,PayPal
+608,10/20/2022,Beauty Products,Estee Lauder Advanced Night Repair,62,360.37,22342.94,North America,Credit Card
+610,08/11/2022,Beauty Products,Estee Lauder Advanced Night Repair,7,448.91,3142.37,North America,PayPal
+622,08/04/2023,Beauty Products,Estee Lauder Advanced Night Repair,21,454.53,9545.13,Asia,Credit Card
+623,03/06/2023,Beauty Products,Estee Lauder Advanced Night Repair,79,472.06,37292.74,Asia,PayPal
+631,09/27/2024,Beauty Products,Estee Lauder Advanced Night Repair,13,465.78,6055.14,Asia,PayPal
+642,05/26/2023,Beauty Products,Estee Lauder Advanced Night Repair,60,141.79,8507.4,Europe,PayPal
+643,04/20/2024,Beauty Products,Estee Lauder Advanced Night Repair,11,242.95,2672.45,Asia,Credit Card
+648,02/24/2024,Beauty Products,Estee Lauder Advanced Night Repair,26,198.71,5166.46,Asia,Debit Card
+655,04/01/2022,Beauty Products,Estee Lauder Advanced Night Repair,52,430.89,22406.28,Europe,PayPal
+664,04/29/2024,Beauty Products,Olay Regenerist Face Cream,9,400.16,3601.44,North America,PayPal
+671,05/14/2021,Beauty Products,MAC Ruby Woo Lipstick,97,487.55,47292.35,North America,PayPal
+675,06/22/2021,Beauty Products,L'Oreal Revitalift Serum,21,293.8,6169.8,Asia,Debit Card
+677,03/18/2024,Beauty Products,Estee Lauder Advanced Night Repair,75,31.07,2330.25,Europe,Credit Card
+679,06/05/2023,Beauty Products,Clinique Moisture Surge,8,413.42,3307.36,Asia,Credit Card
+680,05/21/2024,Beauty Products,Estee Lauder Advanced Night Repair,59,393.19,23198.21,North America,PayPal
+683,06/06/2024,Beauty Products,Estee Lauder Advanced Night Repair,49,347.14,17009.86,North America,Debit Card
+685,11/26/2024,Beauty Products,Estee Lauder Advanced Night Repair,17,456.42,7759.14,North America,Debit Card
+691,10/28/2024,Beauty Products,Estee Lauder Advanced Night Repair,69,171.82,11855.58,North America,Debit Card
+692,07/06/2024,Beauty Products,Estee Lauder Advanced Night Repair,32,453.97,14527.04,Europe,Debit Card
+701,12/24/2021,Beauty Products,Estee Lauder Advanced Night Repair,1,117.7,117.7,Asia,PayPal
+703,12/02/2024,Beauty Products,Estee Lauder Advanced Night Repair,24,429.99,10319.76,North America,Credit Card
+705,01/08/2022,Beauty Products,Estee Lauder Advanced Night Repair,24,47.43,1138.32,Asia,PayPal
+711,11/29/2022,Beauty Products,Estee Lauder Advanced Night Repair,31,177.48,5501.88,Europe,Debit Card
+713,04/16/2024,Beauty Products,Estee Lauder Advanced Night Repair,52,119.4,6208.8,Europe,PayPal
+720,08/17/2023,Beauty Products,Estee Lauder Advanced Night Repair,5,341.03,1705.15,Europe,Credit Card
+726,01/22/2023,Beauty Products,Estee Lauder Advanced Night Repair,10,84.64,846.4,Europe,Credit Card
+727,07/14/2023,Beauty Products,Estee Lauder Advanced Night Repair,38,450.73,17127.74,Europe,Debit Card
+730,01/25/2022,Beauty Products,Estee Lauder Advanced Night Repair,81,305.61,24754.41,Asia,Credit Card
+738,06/19/2024,Beauty Products,Estee Lauder Advanced Night Repair,67,328.97,22040.99,Europe,Credit Card
+749,06/26/2021,Beauty Products,Estee Lauder Advanced Night Repair,12,491.01,5892.12,Asia,Debit Card
+750,05/03/2023,Beauty Products,Laneige Water Sleeping Mask,91,268.36,24420.76,Asia,Credit Card
+771,12/15/2022,Beauty Products,GlamGlow Supermud Clearing Treatment,89,481.53,42856.17,North America,Credit Card
+777,01/01/2021,Beauty Products,Youth to the People Superfood Antioxidant Cleanser,32,234.71,7510.72,North America,PayPal
+779,11/16/2022,Beauty Products,Neutrogena Hydro Boost Water Gel,46,433.34,19933.64,Asia,PayPal
+790,11/05/2022,Beauty Products,Paula's Choice Skin Perfecting 2% BHA Liquid Exfoliant,21,254.14,5336.94,North America,PayPal
+794,08/22/2024,Beauty Products,First Aid Beauty Ultra Repair Cream,23,117.37,2699.51,Europe,PayPal
+796,12/14/2023,Beauty Products,Caudalie Vinoperfect Radiance Serum,75,460.5,34537.5,Asia,PayPal
+797,08/24/2021,Beauty Products,Caudalie Vinoperfect Radiance Serum,86,96.29,8280.94,Europe,Debit Card
+811,03/11/2022,Beauty Products,Caudalie Vinoperfect Radiance Serum,50,161.9,8095,Europe,Debit Card
+812,04/13/2021,Beauty Products,Caudalie Vinoperfect Radiance Serum,95,123.7,11751.5,North America,Debit Card
+813,12/16/2024,Beauty Products,Caudalie Vinoperfect Radiance Serum,79,234.53,18527.87,Europe,PayPal
+819,03/09/2023,Beauty Products,Caudalie Vinoperfect Radiance Serum,43,419.35,18032.05,North America,PayPal
+827,09/11/2023,Beauty Products,Caudalie Vinoperfect Radiance Serum,23,262.19,6030.37,Asia,Debit Card
+839,11/25/2024,Beauty Products,Caudalie Vinoperfect Radiance Serum,65,261.23,16979.95,Asia,PayPal
+840,09/15/2024,Beauty Products,Caudalie Vinoperfect Radiance Serum,4,245.96,983.84,Europe,Credit Card
+846,07/24/2021,Beauty Products,Tom Ford Black Orchid Perfume,10,145.02,1450.2,Asia,PayPal
+848,02/12/2021,Beauty Products,Dr. Jart+ Cicapair Tiger Grass Color Correcting Treatment,46,496.3,22829.8,North America,PayPal
+868,10/26/2023,Beauty Products,Caudalie Vinoperfect Radiance Serum,16,169.91,2718.56,North America,Debit Card
+869,08/27/2022,Beauty Products,L'Occitane Shea Butter Hand Cream,95,421.43,40035.85,North America,Credit Card
+872,11/29/2024,Beauty Products,Tarte Shape Tape Concealer,83,452.84,37585.72,North America,Debit Card
+874,10/07/2022,Beauty Products,The Ordinary Caffeine Solution 5% + EGCG,4,206.46,825.84,North America,Credit Card
+881,01/02/2024,Beauty Products,Fresh Sugar Lip Treatment,37,154.89,5730.93,Asia,PayPal
+908,03/19/2021,Beauty Products,Glossier Cloud Paint,19,108.27,2057.13,North America,Debit Card
+911,12/31/2021,Beauty Products,Tom Ford Black Orchid Perfume,60,224.37,13462.2,Asia,Credit Card
+926,04/30/2024,Beauty Products,Dr. Jart+ Cicapair Tiger Grass Color Correcting Treatment,94,175.11,16460.34,Asia,PayPal
+959,05/27/2023,Beauty Products,Caudalie Vinoperfect Radiance Serum,70,178.86,12520.2,Europe,Debit Card
+961,08/05/2024,Beauty Products,L'Occitane Shea Butter Hand Cream,51,35.43,1806.93,North America,PayPal
+967,10/05/2024,Beauty Products,Caudalie Vinoperfect Radiance Serum,69,384.71,26544.99,Asia,PayPal
+968,04/23/2023,Beauty Products,Caudalie Vinoperfect Radiance Serum,93,338.82,31510.26,North America,Debit Card
+969,12/16/2021,Beauty Products,Caudalie Vinoperfect Radiance Serum,64,223.31,14291.84,Asia,Credit Card
+977,08/17/2021,Beauty Products,Caudalie Vinoperfect Radiance Serum,70,393.26,27528.2,Europe,Credit Card
+985,01/04/2021,Beauty Products,Caudalie Vinoperfect Radiance Serum,70,356.03,24922.1,Europe,PayPal
+986,10/08/2022,Beauty Products,Caudalie Vinoperfect Radiance Serum,41,271.8,11143.8,Europe,Credit Card
+992,07/13/2021,Beauty Products,Caudalie Vinoperfect Radiance Serum,31,481.14,14915.34,North America,Credit Card
+994,12/16/2022,Beauty Products,Caudalie Vinoperfect Radiance Serum,24,476.71,11441.04,North America,PayPal
+996,11/16/2023,Beauty Products,Caudalie Vinoperfect Radiance Serum,36,440.88,15871.68,Asia,Credit Card
+3,05/11/2023,Books,The Da Vinci Code,24,145.05,3481.2,North America,Credit Card
+5,02/05/2024,Books,Dune by Frank Herbert,49,487.67,23895.83,Asia,Credit Card
+7,11/11/2023,Books,"Salt, Fat, Acid, Heat by Samin Nosrat",96,220.15,21134.4,Asia,Debit Card
+9,04/12/2022,Books,Gone Girl by Gillian Flynn,98,141.39,13856.22,Europe,Debit Card
+17,08/25/2024,Books,Pride and Prejudice by Jane Austen,58,388.21,22516.18,North America,Credit Card
+27,04/05/2022,Books,1984 by George Orwell,8,315.97,2527.76,North America,Debit Card
+31,01/18/2023,Books,Harry Potter and the Sorcerer's Stone,44,365.33,16074.52,Europe,Credit Card
+44,04/12/2023,Books,Becoming by Michelle Obama,2,490.45,980.9,Europe,PayPal
+45,02/29/2024,Books,The Silent Patient by Alex Michaelides,70,121.43,8500.1,Asia,Credit Card
+52,08/24/2022,Books,Educated by Tara Westover,65,424.99,27624.35,North America,Debit Card
+57,10/01/2024,Books,Where the Crawdads Sing by Delia Owens,45,57.81,2601.45,North America,Debit Card
+63,08/14/2023,Books,The Great Gatsby by F. Scott Fitzgerald,67,64.85,4344.95,North America,PayPal
+74,07/20/2022,Books,To Kill a Mockingbird by Harper Lee,8,71.86,574.88,North America,Credit Card
+99,12/01/2023,Books,The Girl with the Dragon Tattoo by Stieg Larsson,26,163.05,4239.3,Asia,PayPal
+102,03/06/2021,Books,The Girl with the Dragon Tattoo by Stieg Larsson,35,449.51,15732.85,Europe,PayPal
+105,02/27/2024,Books,The Girl with the Dragon Tattoo by Stieg Larsson,69,283.33,19549.77,Europe,Credit Card
+115,10/15/2023,Books,The Girl with the Dragon Tattoo by Stieg Larsson,89,368.99,32840.11,North America,Debit Card
+126,03/16/2023,Books,The Girl with the Dragon Tattoo by Stieg Larsson,38,69.99,2659.62,Asia,Debit Card
+128,11/15/2022,Books,The Girl with the Dragon Tattoo by Stieg Larsson,23,168.28,3870.44,Europe,Credit Card
+132,10/05/2022,Books,The Girl with the Dragon Tattoo by Stieg Larsson,50,73.61,3680.5,Europe,PayPal
+133,10/26/2023,Books,The Girl with the Dragon Tattoo by Stieg Larsson,8,346.56,2772.48,Europe,Debit Card
+139,03/06/2023,Books,The Girl with the Dragon Tattoo by Stieg Larsson,5,486.99,2434.95,North America,Credit Card
+140,01/28/2022,Books,The Girl with the Dragon Tattoo by Stieg Larsson,86,175.05,15054.3,Asia,PayPal
+145,01/13/2023,Books,The Girl with the Dragon Tattoo by Stieg Larsson,90,494.15,44473.5,Europe,Debit Card
+154,04/09/2024,Books,The Outsiders by S.E. Hinton,76,65.34,4965.84,Europe,PayPal
+161,08/01/2022,Books,The Night Circus by Erin Morgenstern,1,310.75,310.75,Asia,Debit Card
+163,07/11/2022,Books,The Art of War by Sun Tzu,31,292.85,9078.35,Asia,Credit Card
+164,10/10/2023,Books,The Hunger Games by Suzanne Collins,80,371.65,29732,Asia,Debit Card
+165,10/08/2022,Books,The Girl with the Dragon Tattoo by Stieg Larsson,14,405.04,5670.56,North America,PayPal
+166,03/07/2023,Books,The Sun Also Rises by Ernest Hemingway,53,423.43,22441.79,Asia,Debit Card
+171,06/08/2024,Books,The Martian by Andy Weir,92,164.31,15116.52,North America,Credit Card
+187,06/11/2024,Books,The Girl with the Dragon Tattoo by Stieg Larsson,98,452.77,44371.46,Europe,Debit Card
+198,02/11/2024,Books,The Girl with the Dragon Tattoo by Stieg Larsson,88,121.1,10656.8,Asia,Credit Card
+204,10/04/2022,Books,The Girl with the Dragon Tattoo by Stieg Larsson,65,18.82,1223.3,Europe,Debit Card
+217,04/22/2024,Books,The Girl with the Dragon Tattoo by Stieg Larsson,44,317.84,13984.96,Europe,Debit Card
+222,10/07/2021,Books,The Girl with the Dragon Tattoo by Stieg Larsson,78,68.92,5375.76,North America,PayPal
+231,07/06/2021,Books,The Girl with the Dragon Tattoo by Stieg Larsson,48,367.82,17655.36,North America,Credit Card
+236,02/03/2023,Books,The Girl with the Dragon Tattoo by Stieg Larsson,26,171.9,4469.4,Europe,PayPal
+239,10/01/2024,Books,Dune by Frank Herbert,5,316.83,1584.15,Asia,Credit Card
+242,05/14/2023,Books,The Da Vinci Code,37,149.79,5542.23,Europe,PayPal
+266,10/12/2023,Books,Dune by Frank Herbert,19,474.57,9016.83,Europe,PayPal
+272,02/29/2024,Books,The Girl with the Dragon Tattoo by Stieg Larsson,29,124.75,3617.75,North America,PayPal
+281,04/14/2021,Books,The Girl with the Dragon Tattoo by Stieg Larsson,49,446.83,21894.67,Asia,Debit Card
+283,06/04/2024,Books,The Girl with the Dragon Tattoo by Stieg Larsson,4,29.49,117.96,Asia,Debit Card
+297,07/24/2024,Books,The Girl with the Dragon Tattoo by Stieg Larsson,42,34.25,1438.5,Europe,Debit Card
+303,10/02/2022,Books,The Girl with the Dragon Tattoo by Stieg Larsson,68,117.07,7960.76,Europe,PayPal
+304,11/23/2023,Books,The Girl with the Dragon Tattoo by Stieg Larsson,7,204.43,1431.01,Europe,PayPal
+316,03/14/2022,Books,The Girl with the Dragon Tattoo by Stieg Larsson,26,230.79,6000.54,Europe,Debit Card
+318,01/27/2021,Books,The Girl with the Dragon Tattoo by Stieg Larsson,15,90.95,1364.25,Europe,PayPal
+323,05/29/2023,Books,The Girl with the Dragon Tattoo by Stieg Larsson,24,136.5,3276,Asia,Debit Card
+328,10/21/2022,Books,The Girl with the Dragon Tattoo by Stieg Larsson,37,363.48,13448.76,Europe,Debit Card
+329,07/01/2022,Books,The Girl with the Dragon Tattoo by Stieg Larsson,68,432.81,29431.08,North America,PayPal
+337,12/06/2023,Books,The Girl with the Dragon Tattoo by Stieg Larsson,18,402.17,7239.06,Asia,PayPal
+339,06/02/2022,Books,The Girl with the Dragon Tattoo by Stieg Larsson,36,55.22,1987.92,North America,Credit Card
+342,10/07/2021,Books,The Girl with the Dragon Tattoo by Stieg Larsson,55,451.16,24813.8,Europe,PayPal
+362,07/24/2022,Books,The Girl with the Dragon Tattoo by Stieg Larsson,78,350.49,27338.22,North America,PayPal
+374,11/17/2024,Books,The Girl on the Train by Paula Hawkins,39,427.4,16668.6,Europe,Debit Card
+383,04/08/2023,Books,Sapiens: A Brief History of Humankind by Yuval Noah Harari,42,293.84,12341.28,Asia,Debit Card
+393,04/16/2022,Books,Atomic Habits by James Clear,70,91.16,6381.2,Europe,Credit Card
+402,04/28/2024,Books,The Subtle Art of Not Giving a F*ck by Mark Manson,44,199.08,8759.52,North America,Credit Card
+407,09/27/2024,Books,The Four Agreements by Don Miguel Ruiz,72,270.23,19456.56,North America,PayPal
+413,03/20/2022,Books,Think and Grow Rich by Napoleon Hill,86,486.29,41820.94,Europe,PayPal
+420,02/01/2024,Books,The Power of Habit by Charles Duhigg,35,463.56,16224.6,North America,Credit Card
+431,10/18/2022,Books,The Outsiders by S.E. Hinton,93,227.62,21168.66,North America,PayPal
+432,09/26/2021,Books,The Night Circus by Erin Morgenstern,31,497.48,15421.88,Europe,Credit Card
+435,02/04/2024,Books,The Art of War by Sun Tzu,80,307.37,24589.6,North America,Credit Card
+460,08/04/2022,Books,The Hunger Games by Suzanne Collins,72,111.58,8033.76,Europe,PayPal
+461,03/01/2023,Books,The Outsiders by S.E. Hinton,32,393.37,12587.84,Europe,PayPal
+466,12/29/2024,Books,The Outsiders by S.E. Hinton,98,236.11,23138.78,North America,Debit Card
+469,11/28/2022,Books,The Outsiders by S.E. Hinton,97,427.75,41491.75,Europe,Debit Card
+478,03/29/2022,Books,The Outsiders by S.E. Hinton,67,375.47,25156.49,North America,Credit Card
+489,01/23/2021,Books,The Outsiders by S.E. Hinton,43,251.05,10795.15,Europe,PayPal
+510,01/15/2022,Books,The Outsiders by S.E. Hinton,73,156.23,11404.79,Asia,Debit Card
+518,10/12/2021,Books,The Outsiders by S.E. Hinton,82,383.67,31460.94,Asia,Debit Card
+519,02/01/2022,Books,The Outsiders by S.E. Hinton,78,465.34,36296.52,North America,Debit Card
+526,12/28/2022,Books,The Outsiders by S.E. Hinton,54,173.37,9361.98,Asia,PayPal
+528,03/31/2021,Books,The Outsiders by S.E. Hinton,36,269,9684,North America,Credit Card
+537,04/06/2023,Books,The Outsiders by S.E. Hinton,41,320.12,13124.92,North America,Credit Card
+551,01/09/2023,Books,The Outsiders by S.E. Hinton,12,160.01,1920.12,North America,Credit Card
+558,02/06/2021,Books,The Outsiders by S.E. Hinton,20,435.78,8715.6,Europe,Debit Card
+560,10/06/2021,Books,The Outsiders by S.E. Hinton,93,65.34,6076.62,North America,Credit Card
+565,03/03/2021,Books,The Outsiders by S.E. Hinton,93,357.95,33289.35,Asia,Debit Card
+575,06/10/2024,Books,The Outsiders by S.E. Hinton,10,422.69,4226.9,Europe,Credit Card
+586,12/29/2023,Books,The Outsiders by S.E. Hinton,9,412.5,3712.5,Asia,Debit Card
+587,01/28/2024,Books,Gone Girl by Gillian Flynn,99,281.78,27896.22,Europe,Credit Card
+594,07/23/2022,Books,Pride and Prejudice by Jane Austen,16,286.01,4576.16,Europe,Debit Card
+602,09/26/2022,Books,The Outsiders by S.E. Hinton,52,363.64,18909.28,Europe,Debit Card
+603,03/02/2024,Books,The Outsiders by S.E. Hinton,36,143.06,5150.16,Europe,Credit Card
+605,05/23/2024,Books,The Outsiders by S.E. Hinton,50,60.35,3017.5,Europe,Debit Card
+628,12/16/2024,Books,The Outsiders by S.E. Hinton,39,66.85,2607.15,Asia,Credit Card
+646,12/15/2022,Books,The Outsiders by S.E. Hinton,52,61.36,3190.72,Europe,PayPal
+654,04/21/2022,Books,The Outsiders by S.E. Hinton,93,11.41,1061.13,Asia,PayPal
+660,01/22/2022,Books,The Outsiders by S.E. Hinton,42,191.87,8058.54,North America,Debit Card
+668,07/18/2023,Books,The Outsiders by S.E. Hinton,60,466.1,27966,Asia,PayPal
+676,03/26/2023,Books,The Outsiders by S.E. Hinton,28,51.82,1450.96,Asia,Credit Card
+678,03/21/2021,Books,The Outsiders by S.E. Hinton,34,336.76,11449.84,Europe,Credit Card
+696,11/02/2023,Books,The Outsiders by S.E. Hinton,8,30.41,243.28,Europe,Credit Card
+707,02/20/2024,Books,The Outsiders by S.E. Hinton,5,190.19,950.95,Asia,PayPal
+710,03/31/2021,Books,The Outsiders by S.E. Hinton,58,172.73,10018.34,North America,Debit Card
+723,07/18/2023,Books,The Outsiders by S.E. Hinton,96,307.01,29472.96,North America,PayPal
+728,06/28/2023,Books,The Outsiders by S.E. Hinton,96,357.97,34365.12,Europe,Debit Card
+737,03/09/2023,Books,The Outsiders by S.E. Hinton,50,270.06,13503,Asia,PayPal
+746,05/26/2021,Books,The Outsiders by S.E. Hinton,10,425.13,4251.3,Europe,Debit Card
+747,08/12/2021,Books,The Outsiders by S.E. Hinton,21,164.42,3452.82,Europe,Debit Card
+752,03/04/2021,Books,The Outsiders by S.E. Hinton,13,90.3,1173.9,North America,PayPal
+753,05/25/2024,Books,The Outsiders by S.E. Hinton,53,324.98,17223.94,Europe,Debit Card
+754,04/07/2023,Books,The Outsiders by S.E. Hinton,32,406.83,13018.56,Europe,PayPal
+756,11/20/2022,Books,The Art of War by Sun Tzu,16,175.3,2804.8,Asia,Credit Card
+759,05/26/2022,Books,The Hunger Games by Suzanne Collins,98,39.71,3891.58,Asia,Credit Card
+772,03/24/2021,Books,The Girl with the Dragon Tattoo by Stieg Larsson,22,314.25,6913.5,Europe,Debit Card
+773,03/14/2024,Books,The Sun Also Rises by Ernest Hemingway,30,465.04,13951.2,North America,Credit Card
+776,04/02/2022,Books,The Martian by Andy Weir,44,98.35,4327.4,Asia,Debit Card
+778,02/20/2021,Books,The Catcher in the Rye by J.D. Salinger,51,284.83,14526.33,Asia,Debit Card
+791,03/14/2022,Books,The Road by Cormac McCarthy,8,209.27,1674.16,Asia,Debit Card
+799,09/17/2023,Books,The Goldfinch by Donna Tartt,89,16.38,1457.82,Asia,Credit Card
+802,09/16/2022,Books,The Great Alone by Kristin Hannah,29,368.74,10693.46,Europe,Debit Card
+809,08/01/2022,Books,The Girl with the Dragon Tattoo by Stieg Larsson,52,428.57,22285.64,Asia,PayPal
+810,03/16/2021,Books,The Nightingale by Kristin Hannah,27,388.81,10497.87,Asia,PayPal
+815,01/08/2023,Books,The Goldfinch by Donna Tartt,88,480.48,42282.24,Asia,Debit Card
+824,08/24/2024,Books,The Goldfinch by Donna Tartt,3,32.57,97.71,Europe,Debit Card
+831,01/29/2023,Books,The Goldfinch by Donna Tartt,25,207.35,5183.75,Asia,Credit Card
+833,03/22/2021,Books,The Goldfinch by Donna Tartt,58,10.22,592.76,Europe,PayPal
+835,03/08/2023,Books,The Goldfinch by Donna Tartt,72,85.37,6146.64,North America,Debit Card
+844,06/30/2022,Books,The Goldfinch by Donna Tartt,98,38.27,3750.46,Asia,Credit Card
+847,05/06/2021,Books,The Goldfinch by Donna Tartt,21,314.8,6610.8,Europe,Credit Card
+849,04/21/2021,Books,The Goldfinch by Donna Tartt,91,199.3,18136.3,Asia,Debit Card
+852,04/28/2023,Books,The Goldfinch by Donna Tartt,41,425.16,17431.56,Europe,PayPal
+859,05/03/2024,Books,The Goldfinch by Donna Tartt,54,122.06,6591.24,North America,Debit Card
+860,05/03/2024,Books,The Goldfinch by Donna Tartt,12,478.6,5743.2,Asia,PayPal
+861,10/29/2022,Books,The Goldfinch by Donna Tartt,81,82.61,6691.41,Europe,Debit Card
+865,09/26/2022,Books,The Goldfinch by Donna Tartt,53,362.39,19206.67,Asia,Credit Card
+884,02/16/2021,Books,The Goldfinch by Donna Tartt,21,321.66,6754.86,Asia,PayPal
+892,02/17/2021,Books,The Goldfinch by Donna Tartt,20,366.11,7322.2,North America,Debit Card
+897,01/08/2021,Books,The Goldfinch by Donna Tartt,14,237.01,3318.14,Europe,Credit Card
+898,09/17/2022,Books,The Goldfinch by Donna Tartt,3,32.25,96.75,Europe,PayPal
+902,10/01/2022,Books,The Goldfinch by Donna Tartt,55,277.88,15283.4,North America,PayPal
+912,10/28/2022,Books,The Sun Also Rises by Ernest Hemingway,19,442.54,8408.26,North America,PayPal
+923,03/17/2023,Books,The Martian by Andy Weir,19,133.88,2543.72,Asia,Debit Card
+935,03/23/2023,Books,The Catcher in the Rye by J.D. Salinger,57,379.38,21624.66,Asia,Debit Card
+937,05/25/2021,Books,The Road by Cormac McCarthy,33,141.82,4680.06,Asia,Debit Card
+939,01/25/2021,Books,The Goldfinch by Donna Tartt,70,141.73,9921.1,North America,Credit Card
+943,04/19/2021,Books,The Great Alone by Kristin Hannah,91,475.11,43235.01,Europe,PayPal
+944,03/15/2024,Books,The Girl with the Dragon Tattoo by Stieg Larsson,15,319.76,4796.4,North America,Debit Card
+951,01/18/2023,Books,The Nightingale by Kristin Hannah,16,229.92,3678.72,North America,PayPal
+957,09/05/2024,Books,The Nightingale by Kristin Hannah,77,71.31,5490.87,North America,Credit Card
+958,11/11/2021,Books,The Nightingale by Kristin Hannah,94,426.73,40112.62,Europe,Credit Card
+966,05/31/2022,Books,The Nightingale by Kristin Hannah,26,68.25,1774.5,Asia,PayPal
+971,03/06/2024,Books,The Nightingale by Kristin Hannah,84,162.87,13681.08,North America,Debit Card
+981,01/06/2021,Books,The Nightingale by Kristin Hannah,35,423.21,14812.35,Asia,PayPal
+989,05/19/2022,Books,The Nightingale by Kristin Hannah,60,161.33,9679.8,Asia,Credit Card
+995,11/16/2024,Books,The Nightingale by Kristin Hannah,89,121.1,10777.9,Asia,Debit Card
+997,12/29/2024,Books,The Nightingale by Kristin Hannah,85,406.31,34536.35,North America,PayPal
+998,06/22/2021,Books,The Nightingale by Kristin Hannah,30,341.8,10254,Europe,PayPal
+999,08/16/2024,Books,The Nightingale by Kristin Hannah,24,316.26,7590.24,Asia,Debit Card
+4,07/18/2024,Clothing,Levi's 501 Jeans,50,395.69,19784.5,North America,Credit Card
+16,05/11/2021,Clothing,Nike Air Force 1,42,164.44,6906.48,Europe,PayPal
+19,12/10/2021,Clothing,North Face Down Jacket,3,126.02,378.06,North America,Debit Card
+20,12/08/2024,Clothing,Zara Summer Dress,18,368.9,6640.2,Asia,PayPal
+37,09/03/2023,Clothing,Adidas Ultraboost Shoes,38,99.68,3787.84,Asia,PayPal
+39,08/16/2023,Clothing,Under Armour HeatGear T-Shirt,62,362.8,22493.6,Europe,PayPal
+49,06/16/2021,Clothing,Columbia Fleece Jacket,66,278.93,18409.38,Asia,Debit Card
+53,11/12/2021,Clothing,North Face Down Jacket,40,220.03,8801.2,North America,PayPal
+54,01/14/2021,Clothing,North Face Down Jacket,76,79.07,6009.32,Europe,Debit Card
+59,06/17/2023,Clothing,North Face Down Jacket,47,235.48,11067.56,Europe,PayPal
+65,05/24/2022,Clothing,North Face Down Jacket,80,489.25,39140,Europe,Credit Card
+69,01/10/2024,Clothing,North Face Down Jacket,76,437.35,33238.6,North America,Credit Card
+70,11/12/2024,Clothing,North Face Down Jacket,94,276.98,26036.12,North America,Debit Card
+81,09/23/2023,Clothing,North Face Down Jacket,28,283.41,7935.48,Europe,PayPal
+92,12/13/2023,Clothing,North Face Down Jacket,61,226.13,13793.93,Asia,Debit Card
+93,03/03/2023,Clothing,North Face Down Jacket,20,105.85,2117,North America,Debit Card
+96,07/07/2021,Clothing,North Face Down Jacket,73,184.77,13488.21,Asia,Credit Card
+97,01/15/2022,Clothing,North Face Down Jacket,37,381.17,14103.29,North America,Credit Card
+104,09/29/2024,Clothing,North Face Down Jacket,59,229.33,13530.47,North America,PayPal
+112,10/16/2021,Clothing,North Face Down Jacket,88,303.08,26671.04,North America,PayPal
+120,02/19/2023,Clothing,North Face Down Jacket,95,429.87,40837.65,North America,Debit Card
+136,02/06/2023,Clothing,North Face Down Jacket,8,413.25,3306,North America,Credit Card
+137,02/02/2022,Clothing,North Face Down Jacket,29,112.78,3270.62,North America,Credit Card
+138,05/21/2023,Clothing,North Face Down Jacket,96,195.72,18789.12,North America,PayPal
+142,11/05/2023,Clothing,North Face Down Jacket,34,459.92,15637.28,North America,Credit Card
+143,06/11/2023,Clothing,North Face Down Jacket,65,64.27,4177.55,Asia,PayPal
+146,06/18/2024,Clothing,North Face Down Jacket,43,451.64,19420.52,North America,PayPal
+153,01/19/2023,Clothing,North Face Down Jacket,47,129.73,6097.31,Europe,Credit Card
+162,11/13/2022,Clothing,North Face Down Jacket,19,223.4,4244.6,North America,PayPal
+175,11/01/2024,Clothing,North Face Down Jacket,63,331.09,20858.67,Europe,Credit Card
+180,07/06/2024,Clothing,North Face Down Jacket,48,434.53,20857.44,North America,Credit Card
+192,02/11/2024,Clothing,North Face Down Jacket,82,328.88,26968.16,North America,Debit Card
+203,01/02/2021,Clothing,North Face Down Jacket,15,244.74,3671.1,Europe,Credit Card
+207,06/02/2024,Clothing,North Face Down Jacket,15,483.46,7251.9,Asia,Credit Card
+211,12/13/2023,Clothing,North Face Down Jacket,93,414.76,38572.68,Asia,Debit Card
+213,12/10/2024,Clothing,North Face Down Jacket,33,421.34,13904.22,Europe,Credit Card
+215,04/16/2023,Clothing,North Face Down Jacket,96,314.46,30188.16,Asia,PayPal
+216,07/22/2021,Clothing,North Face Down Jacket,35,284,9940,Asia,Credit Card
+218,05/03/2021,Clothing,North Face Down Jacket,90,271.01,24390.9,Asia,Credit Card
+219,02/05/2022,Clothing,North Face Down Jacket,11,321.19,3533.09,Europe,Credit Card
+228,09/01/2022,Clothing,North Face Down Jacket,85,414.02,35191.7,North America,PayPal
+248,10/03/2022,Clothing,North Face Down Jacket,87,133.63,11625.81,Europe,Debit Card
+249,04/18/2022,Clothing,North Face Down Jacket,70,117.91,8253.7,Asia,Credit Card
+250,05/31/2021,Clothing,North Face Down Jacket,46,249.3,11467.8,Europe,Debit Card
+258,05/31/2023,Clothing,North Face Down Jacket,36,350.28,12610.08,Asia,Debit Card
+262,09/11/2021,Clothing,North Face Down Jacket,68,77.39,5262.52,Asia,PayPal
+271,07/27/2021,Clothing,North Face Down Jacket,27,74.53,2012.31,North America,PayPal
+275,02/23/2021,Clothing,North Face Down Jacket,8,138.71,1109.68,Europe,PayPal
+278,08/10/2022,Clothing,North Face Down Jacket,30,492.08,14762.4,Asia,PayPal
+288,07/03/2023,Clothing,North Face Down Jacket,7,230.73,1615.11,Asia,Debit Card
+289,05/28/2023,Clothing,North Face Down Jacket,95,241.76,22967.2,North America,Credit Card
+294,06/10/2021,Clothing,North Face Down Jacket,71,299.53,21266.63,North America,Credit Card
+295,03/12/2023,Clothing,North Face Down Jacket,63,273.13,17207.19,North America,Credit Card
+299,11/16/2024,Clothing,North Face Down Jacket,42,423.52,17787.84,North America,PayPal
+302,02/05/2022,Clothing,North Face Down Jacket,84,224.88,18889.92,North America,Credit Card
+313,08/18/2021,Clothing,North Face Down Jacket,86,24.54,2110.44,North America,PayPal
+315,07/17/2022,Clothing,North Face Down Jacket,9,31.98,287.82,Asia,PayPal
+324,08/18/2023,Clothing,North Face Down Jacket,80,340.56,27244.8,Asia,Credit Card
+327,03/27/2023,Clothing,North Face Down Jacket,91,477.48,43450.68,Asia,Debit Card
+338,10/28/2024,Clothing,North Face Down Jacket,19,334.71,6359.49,North America,Credit Card
+346,06/30/2021,Clothing,Forever 21 Graphic Tee,99,212.21,21008.79,Europe,Debit Card
+350,09/20/2023,Clothing,Lululemon Align Leggings,81,303.36,24572.16,Europe,PayPal
+360,01/18/2021,Clothing,Gap Crewneck Sweatshirt,10,495.72,4957.2,Asia,Credit Card
+369,06/04/2021,Clothing,Adidas Essential Track Pants,7,115.87,811.09,Europe,Debit Card
+388,11/17/2021,Clothing,Levi's Sherpa Trucker Jacket,36,191.33,6887.88,North America,Credit Card
+391,10/16/2022,Clothing,Nike Sportswear Club Fleece Hoodie,8,267.65,2141.2,Asia,Credit Card
+409,11/13/2022,Clothing,Under Armour Tech 2.0 T-Shirt,67,294.31,19718.77,Europe,Debit Card
+411,12/14/2023,Clothing,Adidas 3-Stripes Shorts,58,61.58,3571.64,Asia,PayPal
+414,09/05/2022,Clothing,Nike Tempo Running Shorts,70,121.96,8537.2,North America,Credit Card
+418,10/01/2023,Clothing,Uniqlo Airism Mesh Boxer Briefs,2,58.66,117.32,North America,Debit Card
+419,01/05/2021,Clothing,Nike Sportswear Club Fleece Hoodie,81,112.34,9099.54,Europe,Debit Card
+422,02/13/2023,Clothing,Nike Sportswear Club Fleece Hoodie,87,203.76,17727.12,North America,PayPal
+423,05/27/2023,Clothing,Nike Sportswear Club Fleece Hoodie,30,163.47,4904.1,Asia,Debit Card
+433,01/05/2022,Clothing,Nike Sportswear Club Fleece Hoodie,47,277.24,13030.28,North America,Debit Card
+434,09/28/2022,Clothing,Nike Sportswear Club Fleece Hoodie,55,53.22,2927.1,North America,Debit Card
+436,10/19/2022,Clothing,Nike Sportswear Club Fleece Hoodie,62,84.28,5225.36,North America,PayPal
+439,12/18/2023,Clothing,Nike Sportswear Club Fleece Hoodie,16,389.03,6224.48,Asia,PayPal
+441,01/11/2023,Clothing,Nike Sportswear Club Fleece Hoodie,17,244.16,4150.72,Europe,PayPal
+453,07/14/2022,Clothing,Nike Sportswear Club Fleece Hoodie,65,417.04,27107.6,Asia,Debit Card
+456,06/16/2023,Clothing,Nike Sportswear Club Fleece Hoodie,84,295.66,24835.44,Europe,PayPal
+457,07/19/2024,Clothing,Nike Sportswear Club Fleece Hoodie,70,499.86,34990.2,North America,Credit Card
+462,05/11/2023,Clothing,Nike Sportswear Club Fleece Hoodie,33,369.94,12208.02,Europe,Debit Card
+467,09/24/2023,Clothing,Nike Sportswear Club Fleece Hoodie,14,368.1,5153.4,North America,Debit Card
+470,08/01/2024,Clothing,Nike Sportswear Club Fleece Hoodie,23,358.33,8241.59,Europe,Debit Card
+471,05/28/2024,Clothing,Nike Sportswear Club Fleece Hoodie,66,454.4,29990.4,North America,PayPal
+480,07/01/2023,Clothing,Nike Sportswear Club Fleece Hoodie,62,38.29,2373.98,Asia,Credit Card
+490,06/06/2022,Clothing,Nike Sportswear Club Fleece Hoodie,15,158.2,2373,Asia,PayPal
+504,09/15/2021,Clothing,Nike Sportswear Club Fleece Hoodie,6,405.23,2431.38,North America,Credit Card
+506,06/15/2023,Clothing,Nike Sportswear Club Fleece Hoodie,80,498.1,39848,Europe,Debit Card
+511,08/15/2023,Clothing,Nike Sportswear Club Fleece Hoodie,15,127.79,1916.85,Europe,PayPal
+513,12/21/2024,Clothing,Nike Sportswear Club Fleece Hoodie,35,135.46,4741.1,Asia,PayPal
+517,12/03/2023,Clothing,Adidas Essential Track Pants,35,369.67,12938.45,Asia,Credit Card
+522,06/30/2024,Clothing,Levi's Sherpa Trucker Jacket,10,268.34,2683.4,North America,Debit Card
+524,01/24/2023,Clothing,Nike Sportswear Club Fleece Hoodie,66,325.79,21502.14,North America,PayPal
+540,10/31/2024,Clothing,Under Armour Tech 2.0 T-Shirt,13,469.17,6099.21,Europe,Credit Card
+544,10/18/2023,Clothing,Adidas 3-Stripes Shorts,98,353.02,34595.96,Asia,Credit Card
+548,04/02/2022,Clothing,Nike Tempo Running Shorts,68,147.36,10020.48,Europe,PayPal
+549,07/09/2023,Clothing,Uniqlo Airism Mesh Boxer Briefs,45,346.83,15607.35,Asia,Credit Card
+570,11/30/2022,Clothing,Adidas Essential Track Pants,83,153.33,12726.39,North America,PayPal
+588,01/31/2022,Clothing,Adidas Essential Track Pants,21,322.17,6765.57,Europe,Credit Card
+593,03/13/2024,Clothing,Adidas Essential Track Pants,80,152.09,12167.2,Asia,PayPal
+597,12/02/2023,Clothing,Adidas Essential Track Pants,4,363.12,1452.48,North America,Debit Card
+604,04/01/2024,Clothing,Adidas Essential Track Pants,38,207.2,7873.6,North America,Debit Card
+609,01/21/2023,Clothing,Adidas Essential Track Pants,99,300.81,29780.19,Asia,PayPal
+613,08/12/2023,Clothing,Adidas Essential Track Pants,86,176.78,15203.08,Europe,PayPal
+620,06/19/2021,Clothing,Adidas Essential Track Pants,62,434.61,26945.82,Asia,Credit Card
+627,04/03/2024,Clothing,Adidas Essential Track Pants,58,340.82,19767.56,North America,PayPal
+632,05/15/2022,Clothing,Adidas Essential Track Pants,85,423.68,36012.8,North America,Debit Card
+634,09/12/2024,Clothing,Adidas Essential Track Pants,85,78.17,6644.45,North America,Credit Card
+639,06/29/2024,Clothing,Adidas Essential Track Pants,36,73.5,2646,Asia,Credit Card
+640,12/09/2024,Clothing,Adidas Essential Track Pants,81,341.29,27644.49,Europe,PayPal
+650,10/15/2022,Clothing,Adidas Essential Track Pants,34,243.22,8269.48,Europe,Debit Card
+652,05/28/2024,Clothing,Adidas Essential Track Pants,82,320.87,26311.34,Asia,Debit Card
+653,12/18/2023,Clothing,Adidas Essential Track Pants,99,387.68,38380.32,Asia,Credit Card
+657,06/14/2023,Clothing,Adidas Essential Track Pants,38,280.51,10659.38,Asia,Debit Card
+665,10/24/2024,Clothing,Adidas Essential Track Pants,41,379.47,15558.27,North America,Credit Card
+666,12/03/2024,Clothing,Adidas Essential Track Pants,1,27.61,27.61,Asia,PayPal
+670,02/15/2024,Clothing,Adidas Essential Track Pants,29,371.18,10764.22,Europe,PayPal
+686,02/16/2021,Clothing,Adidas Essential Track Pants,60,420.75,25245,Europe,Debit Card
+688,08/21/2024,Clothing,Adidas Essential Track Pants,88,474.93,41793.84,North America,Credit Card
+690,12/09/2024,Clothing,Adidas Essential Track Pants,83,370.74,30771.42,Europe,PayPal
+695,08/29/2023,Clothing,Adidas Essential Track Pants,87,440.05,38284.35,North America,Credit Card
+698,01/06/2023,Clothing,Adidas Essential Track Pants,72,383.53,27614.16,Asia,PayPal
+699,02/23/2023,Clothing,Adidas Essential Track Pants,87,232.91,20263.17,Europe,Credit Card
+702,08/30/2023,Clothing,Adidas Essential Track Pants,51,74.44,3796.44,Asia,Debit Card
+708,10/03/2024,Clothing,Adidas Essential Track Pants,20,99.05,1981,Asia,Credit Card
+712,09/01/2024,Clothing,Adidas Essential Track Pants,11,372.12,4093.32,Europe,Debit Card
+716,05/19/2023,Clothing,Adidas Essential Track Pants,7,288.37,2018.59,Asia,Credit Card
+719,05/17/2022,Clothing,Adidas Essential Track Pants,58,440.84,25568.72,Europe,Debit Card
+732,09/13/2021,Clothing,Adidas Essential Track Pants,8,39.26,314.08,Asia,PayPal
+739,06/28/2024,Clothing,Adidas Essential Track Pants,49,325.85,15966.65,Europe,Credit Card
+741,10/26/2023,Clothing,Adidas Essential Track Pants,68,390.69,26566.92,North America,Credit Card
+757,04/15/2021,Clothing,Adidas Essential Track Pants,32,365.24,11687.68,Europe,Debit Card
+767,12/31/2024,Clothing,Adidas Essential Track Pants,73,157.94,11529.62,Asia,Debit Card
+774,01/14/2024,Clothing,Adidas Essential Track Pants,84,382.82,32156.88,Asia,Credit Card
+775,01/07/2024,Clothing,Adidas Essential Track Pants,85,277.96,23626.6,Asia,Debit Card
+780,12/18/2022,Clothing,Adidas Essential Track Pants,21,245.85,5162.85,North America,Debit Card
+783,05/03/2022,Clothing,Adidas Essential Track Pants,94,77.13,7250.22,Asia,Credit Card
+784,02/03/2021,Clothing,Adidas Essential Track Pants,39,497.54,19404.06,North America,Credit Card
+793,02/10/2023,Clothing,Adidas Essential Track Pants,7,266.04,1862.28,Asia,PayPal
+798,01/24/2022,Clothing,Adidas Essential Track Pants,22,114.84,2526.48,Europe,Debit Card
+804,08/19/2024,Clothing,Adidas Essential Track Pants,82,352.17,28877.94,North America,Debit Card
+805,07/08/2023,Clothing,Adidas Essential Track Pants,2,203.65,407.3,Asia,Debit Card
+806,05/15/2024,Clothing,Adidas Essential Track Pants,29,476.92,13830.68,North America,Debit Card
+814,02/03/2023,Clothing,Adidas Essential Track Pants,23,392.86,9035.78,Europe,PayPal
+817,08/22/2024,Clothing,Adidas Essential Track Pants,77,429.05,33036.85,North America,PayPal
+820,09/20/2024,Clothing,Adidas Originals Trefoil Hoodie,37,394.37,14591.69,Europe,Credit Card
+821,05/09/2023,Clothing,Nike Air Force 1 Sneakers,61,194.72,11877.92,Europe,PayPal
+828,09/20/2024,Clothing,Adidas Essential Track Pants,29,406.05,11775.45,Europe,Debit Card
+834,05/13/2021,Clothing,Levi's Sherpa Trucker Jacket,16,451.68,7226.88,Europe,PayPal
+841,02/24/2023,Clothing,Nike Sportswear Club Fleece Hoodie,99,321.37,31815.63,Asia,Credit Card
+845,02/22/2021,Clothing,Under Armour Tech 2.0 T-Shirt,89,227.74,20268.86,Asia,PayPal
+851,04/21/2024,Clothing,Adidas 3-Stripes Shorts,66,213.65,14100.9,North America,Debit Card
+871,06/18/2022,Clothing,Nike Tempo Running Shorts,56,220.75,12362,Asia,PayPal
+880,01/07/2024,Clothing,Uniqlo Airism Mesh Boxer Briefs,26,135.1,3512.6,North America,Debit Card
+887,08/27/2021,Clothing,Levi's 511 Slim Fit Jeans,46,440.95,20283.7,Europe,Debit Card
+889,12/16/2021,Clothing,Nike Dri-FIT Training Shorts,60,56.58,3394.8,North America,PayPal
+925,11/05/2023,Clothing,Nike Sportswear Club Fleece Hoodie,45,71.42,3213.9,Asia,Debit Card
+927,04/30/2022,Clothing,Nike Sportswear Club Fleece Hoodie,55,499.78,27487.9,North America,Debit Card
+928,01/28/2021,Clothing,Nike Sportswear Club Fleece Hoodie,55,208.82,11485.1,Asia,Debit Card
+941,03/08/2021,Clothing,Nike Sportswear Club Fleece Hoodie,20,246.12,4922.4,Asia,Debit Card
+942,08/21/2021,Clothing,Nike Sportswear Club Fleece Hoodie,47,187.24,8800.28,Asia,PayPal
+949,09/15/2022,Clothing,Nike Sportswear Club Fleece Hoodie,9,94.32,848.88,North America,Debit Card
+954,09/05/2022,Clothing,Nike Sportswear Club Fleece Hoodie,10,58.14,581.4,North America,Credit Card
+962,12/31/2024,Clothing,Nike Sportswear Club Fleece Hoodie,19,79.66,1513.54,Asia,Debit Card
+964,10/04/2021,Clothing,Nike Sportswear Club Fleece Hoodie,35,335.92,11757.2,Asia,Credit Card
+970,04/03/2023,Clothing,Nike Sportswear Club Fleece Hoodie,37,279.16,10328.92,North America,PayPal
+975,06/27/2022,Clothing,Nike Sportswear Club Fleece Hoodie,64,454.22,29070.08,Europe,Credit Card
+979,07/09/2023,Clothing,Nike Sportswear Club Fleece Hoodie,4,400.8,1603.2,North America,Credit Card
+980,05/31/2024,Clothing,Nike Sportswear Club Fleece Hoodie,39,311.8,12160.2,Europe,PayPal
+983,04/13/2022,Clothing,Nike Sportswear Club Fleece Hoodie,24,283.9,6813.6,Europe,Debit Card
+984,03/16/2021,Clothing,Nike Sportswear Club Fleece Hoodie,57,255.53,14565.21,North America,Credit Card
+6,01/01/2024,Electronics,iPhone 14 Pro,51,191.89,9786.39,Europe,PayPal
+8,05/02/2021,Electronics,MacBook Pro 16-inch,36,423.95,15262.2,Asia,Credit Card
+10,05/23/2024,Electronics,Samsung Galaxy Tab S8,66,86.63,5717.58,Asia,Debit Card
+21,03/17/2023,Electronics,Garmin Forerunner 945,40,278.68,11147.2,North America,Credit Card
+32,05/07/2023,Electronics,Bose QuietComfort 35 Headphones,14,103.68,1451.52,Europe,PayPal
+34,12/19/2023,Electronics,Sony WH-1000XM4 Headphones,2,161.26,322.52,Asia,Credit Card
+35,05/26/2022,Electronics,Apple Watch Series 8,37,474.05,17539.85,Europe,Credit Card
+36,12/01/2022,Electronics,GoPro HERO10 Black,69,484,33396,North America,Debit Card
+41,08/16/2023,Electronics,Google Nest Hub Max,14,53.53,749.42,Asia,Credit Card
+50,07/21/2024,Electronics,Google Nest Hub Max,35,310.32,10861.2,Asia,Credit Card
+55,08/30/2021,Electronics,Google Nest Hub Max,56,335.45,18785.2,Asia,Debit Card
+60,09/25/2024,Electronics,Google Nest Hub Max,31,377.15,11691.65,Europe,Debit Card
+75,02/04/2024,Electronics,Google Nest Hub Max,43,333.22,14328.46,Asia,Credit Card
+78,12/31/2022,Electronics,Google Nest Hub Max,57,473.85,27009.45,Asia,Debit Card
+84,07/18/2024,Electronics,Google Nest Hub Max,76,178.39,13557.64,Europe,PayPal
+85,04/01/2022,Electronics,Google Nest Hub Max,37,148.39,5490.43,Europe,PayPal
+86,06/29/2024,Electronics,Google Nest Hub Max,49,201.46,9871.54,Europe,Credit Card
+87,10/14/2023,Electronics,Google Nest Hub Max,44,401.19,17652.36,Europe,Debit Card
+88,10/23/2021,Electronics,Google Nest Hub Max,56,192.25,10766,Europe,PayPal
+101,01/15/2021,Electronics,Google Nest Hub Max,1,105.96,105.96,Asia,PayPal
+108,03/08/2024,Electronics,Google Nest Hub Max,78,187.92,14657.76,Europe,Debit Card
+109,08/16/2022,Electronics,Google Nest Hub Max,12,449.62,5395.44,Asia,Debit Card
+113,01/14/2022,Electronics,Google Nest Hub Max,43,26.36,1133.48,North America,Debit Card
+122,11/23/2023,Electronics,Google Nest Hub Max,43,372.47,16016.21,Europe,Debit Card
+159,06/20/2024,Electronics,Google Nest Hub Max,68,372.44,25325.92,Asia,Debit Card
+160,01/15/2024,Electronics,Google Nest Hub Max,33,103.72,3422.76,North America,Debit Card
+170,10/03/2024,Electronics,Google Nest Hub Max,62,62.11,3850.82,Asia,Credit Card
+173,06/02/2024,Electronics,Google Nest Hub Max,64,344.02,22017.28,North America,Debit Card
+178,09/20/2022,Electronics,Google Nest Hub Max,41,47.77,1958.57,Asia,Credit Card
+181,10/14/2024,Electronics,Google Nest Hub Max,13,115.61,1502.93,Asia,Debit Card
+189,10/26/2022,Electronics,Google Nest Hub Max,19,405.62,7706.78,Asia,Credit Card
+190,10/29/2024,Electronics,Google Nest Hub Max,70,38.96,2727.2,Europe,Debit Card
+194,07/18/2022,Electronics,Google Nest Hub Max,23,10.09,232.07,Asia,PayPal
+196,11/10/2024,Electronics,Google Nest Hub Max,75,200.98,15073.5,Europe,Debit Card
+199,08/10/2023,Electronics,Google Nest Hub Max,54,196.99,10637.46,Europe,Credit Card
+202,04/23/2021,Electronics,Canon EOS Rebel T7i DSLR Camera,85,403.15,34267.75,Europe,PayPal
+205,08/08/2021,Electronics,Apple MacBook Pro 16-inch,76,216.51,16454.76,Asia,Debit Card
+214,09/04/2021,Electronics,Amazon Echo Dot (4th Gen),49,491.08,24062.92,North America,Debit Card
+221,10/21/2021,Electronics,Google Nest Wifi Router,72,117.04,8426.88,North America,Debit Card
+225,09/09/2023,Electronics,Bose QuietComfort 35 II Wireless Headphones,46,32.6,1499.6,Asia,Credit Card
+226,01/22/2023,Electronics,Sony WH-1000XM4 Headphones,9,287.91,2591.19,North America,Debit Card
+234,10/04/2024,Electronics,Google Pixel 6 Pro,28,439.85,12315.8,Asia,Credit Card
+235,10/22/2022,Electronics,Apple MacBook Air,93,439.86,40906.98,North America,Credit Card
+237,08/13/2023,Electronics,Samsung Odyssey G7 Gaming Monitor,25,176.8,4420,North America,PayPal
+238,02/07/2022,Electronics,Amazon Fire TV Stick 4K,12,494.62,5935.44,Europe,Credit Card
+244,07/18/2023,Electronics,Google Pixelbook Go,44,141.21,6213.24,Asia,PayPal
+245,07/05/2022,Electronics,Sonos Beam Soundbar,15,396.69,5950.35,North America,Debit Card
+254,05/24/2021,Electronics,Logitech G Pro X Wireless Gaming Headset,80,435.59,34847.2,North America,Credit Card
+260,06/16/2023,Electronics,Apple TV 4K,51,456.23,23267.73,Asia,Credit Card
+267,01/09/2021,Electronics,Samsung Galaxy Watch 4,34,228.17,7757.78,North America,PayPal
+273,02/08/2022,Electronics,Canon EOS Rebel T7i DSLR Camera,28,395.51,11074.28,North America,Debit Card
+282,09/11/2021,Electronics,Google Pixel 6 Pro,77,11.43,880.11,Asia,Debit Card
+286,04/09/2021,Electronics,Google Pixel 6 Pro,94,127.04,11941.76,Asia,Debit Card
+287,06/02/2021,Electronics,Google Pixel 6 Pro,75,240.12,18009,Europe,Debit Card
+292,04/01/2024,Electronics,Google Pixel 6 Pro,13,229.26,2980.38,Asia,Debit Card
+296,02/02/2022,Electronics,Google Pixel 6 Pro,56,428.53,23997.68,Asia,Credit Card
+311,01/20/2023,Electronics,Google Pixel 6 Pro,22,441.13,9704.86,Europe,PayPal
+321,03/09/2023,Electronics,Google Pixel 6 Pro,42,442.31,18577.02,Asia,Debit Card
+334,05/28/2024,Electronics,Google Pixel 6 Pro,39,437.08,17046.12,North America,PayPal
+343,10/04/2024,Electronics,Google Pixel 6 Pro,69,208.08,14357.52,North America,Debit Card
+348,01/28/2024,Electronics,Google Pixel 6 Pro,33,326.76,10783.08,Europe,PayPal
+351,02/14/2024,Electronics,Google Pixel 6 Pro,22,256.06,5633.32,North America,Credit Card
+353,09/10/2021,Electronics,Google Pixel 6 Pro,37,66.71,2468.27,Asia,Credit Card
+356,03/30/2024,Electronics,Google Pixel 6 Pro,92,322.56,29675.52,Europe,PayPal
+357,07/03/2024,Electronics,Google Pixel 6 Pro,71,373.08,26488.68,Europe,PayPal
+375,09/03/2021,Electronics,Google Pixel 6 Pro,41,207.91,8524.31,Asia,Credit Card
+378,01/29/2023,Electronics,Google Pixel 6 Pro,60,432.25,25935,Asia,Debit Card
+380,07/10/2023,Electronics,Google Pixel 6 Pro,19,120.88,2296.72,Europe,Credit Card
+389,05/27/2022,Electronics,Google Pixel 6 Pro,3,23.44,70.32,Europe,Debit Card
+395,01/21/2024,Electronics,Google Pixel 6 Pro,68,31.94,2171.92,Europe,Credit Card
+399,05/04/2023,Electronics,Google Pixel 6 Pro,2,263.45,526.9,North America,Debit Card
+410,04/18/2023,Electronics,Google Pixel 6 Pro,44,284.25,12507,North America,Credit Card
+421,05/04/2024,Electronics,Google Pixel 6 Pro,98,212.93,20867.14,Asia,Credit Card
+429,04/03/2023,Electronics,Google Pixel 6 Pro,69,193.65,13361.85,Asia,Credit Card
+437,04/30/2021,Electronics,Google Pixel 6 Pro,30,25.16,754.8,Europe,PayPal
+443,03/02/2023,Electronics,Google Pixel 6 Pro,12,92.49,1109.88,Asia,Debit Card
+447,12/18/2023,Electronics,Google Pixel 6 Pro,16,415.14,6642.24,Asia,Debit Card
+448,09/26/2022,Electronics,Google Pixel 6 Pro,30,357.42,10722.6,Europe,Credit Card
+449,05/28/2022,Electronics,Google Pixel 6 Pro,23,96.81,2226.63,North America,Debit Card
+450,03/13/2023,Electronics,Google Pixel 6 Pro,92,258.65,23795.8,North America,PayPal
+451,01/25/2024,Electronics,Google Pixel 6 Pro,5,341.92,1709.6,Asia,PayPal
+455,06/14/2024,Electronics,Google Pixel 6 Pro,21,90.97,1910.37,Europe,Debit Card
+472,12/29/2023,Electronics,Google Pixel 6 Pro,85,74.86,6363.1,North America,Debit Card
+474,10/06/2023,Electronics,Amazon Fire TV Stick 4K,91,303.57,27624.87,Asia,PayPal
+476,08/16/2023,Electronics,Google Pixelbook Go,65,234.65,15252.25,Asia,Credit Card
+477,10/09/2023,Electronics,Sonos Beam Soundbar,75,28.61,2145.75,Europe,Debit Card
+482,04/19/2022,Electronics,Logitech G Pro X Wireless Gaming Headset,26,238.72,6206.72,Europe,PayPal
+486,08/05/2024,Electronics,Apple TV 4K,6,261.32,1567.92,Europe,Credit Card
+488,12/23/2021,Electronics,Samsung Galaxy Watch 4,22,379.76,8354.72,Asia,Debit Card
+492,03/13/2023,Electronics,Canon EOS Rebel T7i DSLR Camera,60,266,15960,Asia,Credit Card
+496,03/18/2022,Electronics,Apple MacBook Pro 16-inch,38,460.18,17486.84,Europe,Debit Card
+503,12/02/2021,Electronics,Amazon Echo Dot (4th Gen),78,299.79,23383.62,North America,Credit Card
+515,12/11/2024,Electronics,Google Nest Wifi Router,91,486.05,44230.55,Asia,PayPal
+527,04/29/2023,Electronics,Bose QuietComfort 35 II Wireless Headphones,33,369.2,12183.6,Asia,Debit Card
+531,08/28/2023,Electronics,Amazon Echo Dot (4th Gen),65,108.32,7040.8,North America,Debit Card
+534,04/25/2021,Electronics,Amazon Echo Dot (4th Gen),52,11.14,579.28,Europe,Debit Card
+554,10/06/2023,Electronics,Amazon Echo Dot (4th Gen),92,292.75,26933,Europe,Debit Card
+559,10/24/2024,Electronics,Amazon Echo Dot (4th Gen),18,344.06,6193.08,Europe,Debit Card
+561,08/05/2021,Electronics,Amazon Echo Dot (4th Gen),60,422.62,25357.2,Europe,Credit Card
+564,07/20/2024,Electronics,Amazon Echo Dot (4th Gen),32,81.15,2596.8,Asia,Debit Card
+567,12/30/2022,Electronics,Amazon Echo Dot (4th Gen),2,113.45,226.9,Asia,PayPal
+569,02/01/2022,Electronics,Amazon Echo Dot (4th Gen),23,206.64,4752.72,North America,PayPal
+579,12/19/2022,Electronics,Amazon Echo Dot (4th Gen),50,115.17,5758.5,Europe,Debit Card
+580,01/05/2023,Electronics,Amazon Echo Dot (4th Gen),31,213.9,6630.9,Europe,Debit Card
+583,10/22/2024,Electronics,Amazon Echo Dot (4th Gen),73,362.7,26477.1,Asia,PayPal
+584,05/24/2021,Electronics,Amazon Echo Dot (4th Gen),87,434.8,37827.6,Asia,Debit Card
+585,06/04/2023,Electronics,Amazon Echo Dot (4th Gen),83,232.43,19291.69,Asia,PayPal
+601,05/31/2024,Electronics,Amazon Echo Dot (4th Gen),93,413.65,38469.45,Europe,Debit Card
+615,07/02/2023,Electronics,Amazon Echo Dot (4th Gen),71,50.53,3587.63,North America,PayPal
+617,06/07/2024,Electronics,Amazon Echo Dot (4th Gen),5,415.09,2075.45,North America,Credit Card
+618,04/12/2024,Electronics,Amazon Echo Dot (4th Gen),55,73.67,4051.85,Europe,PayPal
+625,05/02/2024,Electronics,Amazon Echo Dot (4th Gen),10,194.88,1948.8,Europe,Debit Card
+626,01/29/2021,Electronics,Amazon Echo Dot (4th Gen),87,468.8,40785.6,Asia,Credit Card
+630,10/20/2024,Electronics,Amazon Echo Dot (4th Gen),65,286.67,18633.55,Asia,Credit Card
+638,12/30/2023,Electronics,Amazon Echo Dot (4th Gen),32,146.44,4686.08,North America,PayPal
+644,06/16/2021,Electronics,Amazon Echo Dot (4th Gen),63,320.83,20212.29,North America,PayPal
+645,04/01/2021,Electronics,Amazon Echo Dot (4th Gen),21,499.74,10494.54,Asia,Debit Card
+651,01/24/2023,Electronics,Amazon Echo Dot (4th Gen),52,64.38,3347.76,North America,PayPal
+656,04/09/2023,Electronics,Amazon Echo Dot (4th Gen),29,101.15,2933.35,Asia,Credit Card
+658,10/16/2024,Electronics,Amazon Echo Dot (4th Gen),42,213.74,8977.08,North America,Credit Card
+662,07/09/2021,Electronics,Amazon Echo Dot (4th Gen),64,367.94,23548.16,Asia,PayPal
+663,05/20/2022,Electronics,Amazon Echo Dot (4th Gen),17,327.38,5565.46,North America,PayPal
+681,07/22/2021,Electronics,Samsung Odyssey G7 Gaming Monitor,86,276.46,23775.56,Asia,PayPal
+693,10/18/2022,Electronics,Amazon Fire TV Stick 4K,44,140.67,6189.48,Asia,PayPal
+697,09/15/2024,Electronics,Google Pixelbook Go,77,204.85,15773.45,Asia,Debit Card
+700,08/26/2023,Electronics,Sonos Beam Soundbar,43,140.95,6060.85,Europe,Debit Card
+704,10/30/2022,Electronics,Logitech G Pro X Wireless Gaming Headset,99,291.92,28900.08,North America,Credit Card
+715,01/02/2023,Electronics,Apple TV 4K,83,289.62,24038.46,North America,Debit Card
+733,12/10/2022,Electronics,Samsung Galaxy Watch 4,25,339.1,8477.5,Asia,Debit Card
+734,03/26/2022,Electronics,Canon EOS Rebel T7i DSLR Camera,73,295.28,21555.44,Europe,Credit Card
+735,01/10/2021,Electronics,Apple MacBook Pro 16-inch,66,495.2,32683.2,Europe,Debit Card
+744,01/09/2022,Electronics,Amazon Echo Dot (4th Gen),89,313.67,27916.63,North America,Debit Card
+758,01/28/2024,Electronics,Canon EOS Rebel T7i DSLR Camera,32,274.02,8768.64,Europe,PayPal
+761,02/09/2022,Electronics,Canon EOS Rebel T7i DSLR Camera,10,348.15,3481.5,North America,Credit Card
+764,04/21/2022,Electronics,Canon EOS Rebel T7i DSLR Camera,40,122.82,4912.8,Asia,Credit Card
+781,03/25/2022,Electronics,Canon EOS Rebel T7i DSLR Camera,99,449.86,44536.14,Europe,Credit Card
+792,04/28/2021,Electronics,Canon EOS Rebel T7i DSLR Camera,46,476.98,21941.08,Europe,Debit Card
+795,09/25/2021,Electronics,Canon EOS Rebel T7i DSLR Camera,96,234.89,22549.44,Europe,Debit Card
+807,06/06/2024,Electronics,Canon EOS Rebel T7i DSLR Camera,85,483.86,41128.1,Europe,PayPal
+818,04/08/2021,Electronics,Canon EOS Rebel T7i DSLR Camera,22,305.5,6721,North America,PayPal
+822,03/11/2022,Electronics,Canon EOS Rebel T7i DSLR Camera,97,280.48,27206.56,Asia,Credit Card
+829,10/17/2023,Electronics,Canon EOS Rebel T7i DSLR Camera,30,134.37,4031.1,Europe,Debit Card
+830,06/26/2022,Electronics,Canon EOS Rebel T7i DSLR Camera,39,130.45,5087.55,Asia,Credit Card
+837,05/18/2021,Electronics,Canon EOS Rebel T7i DSLR Camera,5,477.88,2389.4,Europe,Credit Card
+838,07/03/2021,Electronics,Canon EOS Rebel T7i DSLR Camera,3,252.39,757.17,Europe,Credit Card
+854,10/29/2024,Electronics,Canon EOS Rebel T7i DSLR Camera,9,439.9,3959.1,Europe,Debit Card
+857,06/19/2023,Electronics,Canon EOS Rebel T7i DSLR Camera,90,421.51,37935.9,Europe,Debit Card
+862,04/03/2021,Electronics,Canon EOS Rebel T7i DSLR Camera,78,342.98,26752.44,Asia,Debit Card
+864,03/02/2021,Electronics,Canon EOS Rebel T7i DSLR Camera,34,221.38,7526.92,Asia,PayPal
+873,04/18/2023,Electronics,Canon EOS Rebel T7i DSLR Camera,58,424.47,24619.26,Europe,PayPal
+882,03/05/2023,Electronics,Canon EOS Rebel T7i DSLR Camera,85,300.96,25581.6,Europe,Credit Card
+883,09/06/2021,Electronics,Canon EOS Rebel T7i DSLR Camera,54,26.08,1408.32,Asia,Debit Card
+886,08/02/2021,Electronics,Canon EOS Rebel T7i DSLR Camera,38,154.67,5877.46,North America,Debit Card
+890,04/17/2021,Electronics,Canon EOS Rebel T7i DSLR Camera,57,415.11,23661.27,North America,PayPal
+891,04/11/2023,Electronics,Canon EOS Rebel T7i DSLR Camera,45,33.34,1500.3,North America,PayPal
+893,12/03/2021,Electronics,Canon EOS Rebel T7i DSLR Camera,17,389.21,6616.57,Europe,Credit Card
+899,06/30/2024,Electronics,Canon EOS Rebel T7i DSLR Camera,88,152.11,13385.68,Asia,Credit Card
+903,02/25/2021,Electronics,Canon EOS Rebel T7i DSLR Camera,4,270.69,1082.76,North America,Credit Card
+905,06/10/2022,Electronics,Canon EOS Rebel T7i DSLR Camera,34,40.05,1361.7,Europe,Credit Card
+906,04/19/2022,Electronics,Canon EOS Rebel T7i DSLR Camera,30,187.47,5624.1,Asia,PayPal
+907,01/28/2021,Electronics,Canon EOS Rebel T7i DSLR Camera,82,364.33,29875.06,Europe,PayPal
+910,11/10/2024,Electronics,Canon EOS Rebel T7i DSLR Camera,60,14.94,896.4,Asia,Credit Card
+924,01/09/2023,Electronics,Canon EOS Rebel T7i DSLR Camera,48,143,6864,Europe,Credit Card
+930,11/29/2023,Electronics,Canon EOS Rebel T7i DSLR Camera,18,383.62,6905.16,North America,PayPal
+932,06/08/2024,Electronics,Canon EOS Rebel T7i DSLR Camera,92,83.3,7663.6,North America,PayPal
+933,03/27/2021,Electronics,Canon EOS Rebel T7i DSLR Camera,47,196.54,9237.38,Europe,Credit Card
+950,10/24/2024,Electronics,Canon EOS Rebel T7i DSLR Camera,90,486.49,43784.1,North America,PayPal
+960,11/01/2024,Electronics,Canon EOS Rebel T7i DSLR Camera,81,25.12,2034.72,Asia,PayPal
+978,07/02/2022,Electronics,Canon EOS Rebel T7i DSLR Camera,90,70.95,6385.5,Asia,PayPal
+988,05/31/2023,Electronics,Canon EOS Rebel T7i DSLR Camera,46,220.5,10143,North America,Credit Card
+990,08/05/2023,Electronics,Canon EOS Rebel T7i DSLR Camera,60,246.31,14778.6,North America,Debit Card
+1,02/01/2024,Home Appliances,Dyson V11 Vacuum,20,27.78,555.6,Europe,Debit Card
+11,11/27/2021,Home Appliances,Blueair Classic 480i,79,428.01,33812.79,Asia,PayPal
+23,04/30/2024,Home Appliances,Keurig K-Elite Coffee Maker,15,442.25,6633.75,North America,PayPal
+24,08/14/2023,Home Appliances,Ninja Professional Blender,97,202.79,19670.63,North America,PayPal
+26,03/30/2024,Home Appliances,Panasonic NN-SN966S Microwave,26,395.98,10295.48,Europe,Debit Card
+28,08/30/2024,Home Appliances,Instant Pot Duo,94,252.3,23716.2,Europe,Debit Card
+30,09/10/2021,Home Appliances,Roomba i7+,42,81.03,3403.26,North America,Credit Card
+46,10/09/2022,Home Appliances,Nespresso VertuoPlus,17,207.95,3535.15,Asia,Credit Card
+51,01/23/2022,Home Appliances,Breville Smart Oven,5,120.81,604.05,Europe,Credit Card
+72,10/19/2023,Home Appliances,KitchenAid Artisan Stand Mixer,5,379.51,1897.55,Europe,Credit Card
+77,02/06/2022,Home Appliances,Philips Airfryer XXL,1,135.19,135.19,Asia,PayPal
+79,06/11/2021,Home Appliances,Eufy RoboVac 11S,64,284.49,18207.36,Asia,PayPal
+89,12/21/2022,Home Appliances,De'Longhi Magnifica Espresso Machine,28,231.33,6477.24,Asia,PayPal
+98,05/08/2022,Home Appliances,Dyson Pure Cool Link,20,145.46,2909.2,Europe,Debit Card
+117,11/18/2023,Home Appliances,LG OLED TV,29,163.45,4740.05,Asia,Credit Card
+118,05/15/2021,Home Appliances,Instant Pot Duo Crisp,57,401.31,22874.67,Europe,Credit Card
+121,07/19/2023,Home Appliances,Vitamix Explorian Blender,56,67.65,3788.4,Asia,PayPal
+135,05/18/2022,Home Appliances,LG OLED TV,1,24.39,24.39,North America,Credit Card
+141,07/26/2021,Home Appliances,LG OLED TV,47,155.28,7298.16,North America,Credit Card
+148,10/18/2023,Home Appliances,LG OLED TV,30,163.89,4916.7,Europe,PayPal
+151,12/01/2024,Home Appliances,LG OLED TV,26,441.11,11468.86,Europe,Credit Card
+155,06/25/2022,Home Appliances,LG OLED TV,91,52.72,4797.52,Asia,Credit Card
+158,03/29/2024,Home Appliances,LG OLED TV,46,453.63,20866.98,Asia,Debit Card
+169,09/16/2024,Home Appliances,LG OLED TV,90,372.25,33502.5,Europe,PayPal
+172,07/09/2021,Home Appliances,LG OLED TV,66,11.87,783.42,Asia,Debit Card
+185,11/14/2021,Home Appliances,LG OLED TV,75,210.07,15755.25,North America,Credit Card
+197,11/11/2024,Home Appliances,LG OLED TV,1,195.96,195.96,North America,Debit Card
+201,11/30/2022,Home Appliances,LG OLED TV,89,212.25,18890.25,Asia,PayPal
+206,05/05/2023,Home Appliances,LG OLED TV,71,23.32,1655.72,Asia,PayPal
+209,11/27/2024,Home Appliances,LG OLED TV,19,356.77,6778.63,North America,PayPal
+210,02/28/2024,Home Appliances,LG OLED TV,60,486.66,29199.6,Europe,Debit Card
+212,12/31/2022,Home Appliances,LG OLED TV,89,352.66,31386.74,Europe,Credit Card
+230,02/22/2024,Home Appliances,LG OLED TV,72,120.91,8705.52,Europe,Debit Card
+232,09/11/2024,Home Appliances,LG OLED TV,66,303.42,20025.72,North America,PayPal
+259,01/02/2021,Home Appliances,LG OLED TV,75,50.28,3771,Europe,PayPal
+263,03/29/2022,Home Appliances,LG OLED TV,21,177,3717,Asia,Credit Card
+264,11/27/2023,Home Appliances,LG OLED TV,13,90.76,1179.88,Europe,Debit Card
+268,06/10/2024,Home Appliances,LG OLED TV,78,396.51,30927.78,North America,Debit Card
+276,02/18/2024,Home Appliances,LG OLED TV,16,143.07,2289.12,North America,Credit Card
+277,09/20/2022,Home Appliances,LG OLED TV,36,241.72,8701.92,Europe,Credit Card
+280,12/16/2024,Home Appliances,LG OLED TV,2,209.42,418.84,North America,Credit Card
+284,02/10/2024,Home Appliances,LG OLED TV,90,306,27540,North America,Debit Card
+298,03/27/2023,Home Appliances,LG OLED TV,61,418.33,25518.13,Asia,Debit Card
+309,10/30/2024,Home Appliances,LG OLED TV,47,410.92,19313.24,North America,PayPal
+310,11/12/2023,Home Appliances,LG OLED TV,13,270.48,3516.24,North America,Debit Card
+319,08/14/2021,Home Appliances,LG OLED TV,10,201.04,2010.4,North America,Debit Card
+320,07/24/2024,Home Appliances,LG OLED TV,88,367.63,32351.44,Europe,Debit Card
+325,03/29/2022,Home Appliances,LG OLED TV,49,155.4,7614.6,Europe,PayPal
+326,10/17/2023,Home Appliances,LG OLED TV,26,362.03,9412.78,North America,Debit Card
+335,06/07/2021,Home Appliances,LG OLED TV,74,135.78,10047.72,Europe,PayPal
+340,04/09/2021,Home Appliances,LG OLED TV,74,302.2,22362.8,Asia,Credit Card
+344,05/12/2022,Home Appliances,LG OLED TV,47,167.33,7864.51,Europe,PayPal
+349,12/01/2022,Home Appliances,LG OLED TV,21,445.14,9347.94,North America,PayPal
+354,09/08/2023,Home Appliances,LG OLED TV,15,85.62,1284.3,Europe,Debit Card
+363,09/08/2024,Home Appliances,LG OLED TV,77,270.92,20860.84,Europe,PayPal
+364,11/17/2022,Home Appliances,LG OLED TV,57,229.94,13106.58,Asia,Debit Card
+367,05/04/2023,Home Appliances,LG OLED TV,64,455.97,29182.08,Asia,PayPal
+371,11/10/2024,Home Appliances,LG OLED TV,18,410.19,7383.42,Asia,Debit Card
+373,02/02/2024,Home Appliances,Philips Airfryer XXL,42,199.82,8392.44,Asia,Credit Card
+377,11/29/2023,Home Appliances,Eufy RoboVac 11S,24,275.84,6620.16,North America,PayPal
+382,06/09/2022,Home Appliances,De'Longhi Magnifica Espresso Machine,90,230.56,20750.4,Asia,Debit Card
+385,02/05/2021,Home Appliances,Dyson Pure Cool Link,39,58.45,2279.55,Asia,Debit Card
+392,08/30/2023,Home Appliances,LG OLED TV,97,260.72,25289.84,North America,PayPal
+397,04/14/2023,Home Appliances,Instant Pot Duo Crisp,49,473.86,23219.14,Asia,Debit Card
+400,02/20/2021,Home Appliances,Vitamix Explorian Blender,60,195.67,11740.2,North America,Credit Card
+404,05/30/2021,Home Appliances,Shark IQ Robot Vacuum,32,302.03,9664.96,Europe,Debit Card
+406,07/24/2022,Home Appliances,Cuisinart Griddler Deluxe,8,425.1,3400.8,Asia,Credit Card
+415,09/20/2023,Home Appliances,Breville Smart Grill,2,488.95,977.9,Asia,PayPal
+425,06/03/2023,Home Appliances,Hamilton Beach FlexBrew Coffee Maker,22,249.05,5479.1,Asia,PayPal
+430,07/25/2023,Home Appliances,Dyson Supersonic Hair Dryer,77,242.26,18654.02,Europe,Credit Card
+442,04/27/2021,Home Appliances,Keurig K-Mini Coffee Maker,16,270.81,4332.96,North America,Debit Card
+444,02/25/2024,Home Appliances,Instant Pot Ultra,8,130.98,1047.84,Europe,Credit Card
+445,11/17/2024,Home Appliances,Cuisinart Coffee Center,84,420.89,35354.76,North America,Debit Card
+454,05/03/2022,Home Appliances,Ninja Foodi Pressure Cooker,30,276.97,8309.1,North America,Debit Card
+458,04/27/2024,Home Appliances,Breville Nespresso Creatista Plus,22,83.76,1842.72,Europe,Debit Card
+465,06/03/2021,Home Appliances,Cuisinart Custom 14-Cup Food Processor,38,398.34,15136.92,Asia,Debit Card
+475,04/04/2021,Home Appliances,Instant Pot Duo Evo Plus,73,183.2,13373.6,North America,Debit Card
+487,07/01/2024,Home Appliances,Crock-Pot 6-Quart Slow Cooker,35,55.9,1956.5,Asia,PayPal
+491,01/29/2024,Home Appliances,Dyson V8 Absolute,86,250.79,21567.94,Asia,Debit Card
+494,05/31/2024,Home Appliances,Anova Precision Cooker,49,226.2,11083.8,Asia,Credit Card
+495,02/01/2023,Home Appliances,Breville Smart Coffee Grinder Pro,42,306.82,12886.44,Europe,Credit Card
+497,02/08/2023,Home Appliances,Instant Pot Duo Nova,82,187.51,15375.82,North America,Debit Card
+500,05/31/2022,Home Appliances,KitchenAid Stand Mixer,30,233.43,7002.9,Europe,Debit Card
+505,05/12/2022,Home Appliances,Keurig K-Elite Coffee Maker,67,243.48,16313.16,Europe,Debit Card
+508,05/02/2023,Home Appliances,iRobot Braava Jet M6,52,11.55,600.6,North America,Credit Card
+512,11/22/2022,Home Appliances,Philips Sonicare DiamondClean Toothbrush,21,162.83,3419.43,North America,PayPal
+514,07/15/2024,Home Appliances,Anova Precision Oven,66,25.09,1655.94,North America,Credit Card
+521,08/18/2024,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,82,437.3,35858.6,Europe,Credit Card
+525,02/04/2021,Home Appliances,Cuisinart Coffee Center,25,411.7,10292.5,Asia,Credit Card
+533,02/22/2022,Home Appliances,Ninja Foodi Pressure Cooker,54,54.01,2916.54,Europe,PayPal
+536,05/04/2024,Home Appliances,Breville Nespresso Creatista Plus,99,177.47,17569.53,Europe,Credit Card
+539,02/17/2022,Home Appliances,Cuisinart Custom 14-Cup Food Processor,25,12.78,319.5,Asia,PayPal
+541,12/14/2024,Home Appliances,Instant Pot Duo Evo Plus,98,412.74,40448.52,Asia,Debit Card
+542,12/30/2022,Home Appliances,Crock-Pot 6-Quart Slow Cooker,8,406.5,3252,North America,PayPal
+547,11/18/2024,Home Appliances,Dyson V8 Absolute,79,364.34,28782.86,Europe,Credit Card
+562,05/17/2023,Home Appliances,Anova Precision Cooker,63,128.69,8107.47,Europe,Credit Card
+574,03/21/2022,Home Appliances,Breville Smart Coffee Grinder Pro,34,295.8,10057.2,Europe,Debit Card
+576,03/17/2021,Home Appliances,Instant Pot Duo Nova,89,279,24831,North America,Debit Card
+589,11/15/2023,Home Appliances,KitchenAid Stand Mixer,73,267.88,19555.24,North America,Debit Card
+600,02/02/2022,Home Appliances,Keurig K-Elite Coffee Maker,52,442.18,22993.36,North America,PayPal
+612,01/03/2024,Home Appliances,iRobot Braava Jet M6,92,238.81,21970.52,Europe,PayPal
+614,05/07/2022,Home Appliances,Philips Sonicare DiamondClean Toothbrush,14,470.82,6591.48,Asia,PayPal
+616,06/30/2024,Home Appliances,Anova Precision Oven,86,466.13,40087.18,Europe,Credit Card
+619,04/06/2024,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,2,286.84,573.68,Asia,PayPal
+629,12/05/2021,Home Appliances,Dyson V11 Vacuum,5,30.72,153.6,Asia,PayPal
+633,05/26/2022,Home Appliances,Blueair Classic 480i,90,341.17,30705.3,North America,Debit Card
+635,08/05/2021,Home Appliances,Keurig K-Elite Coffee Maker,53,134.57,7132.21,Asia,PayPal
+636,08/17/2024,Home Appliances,Ninja Professional Blender,82,439,35998,Asia,PayPal
+649,06/22/2021,Home Appliances,Panasonic NN-SN966S Microwave,68,434.25,29529,Europe,PayPal
+659,10/22/2023,Home Appliances,Instant Pot Duo,21,362.63,7615.23,North America,Credit Card
+661,12/14/2021,Home Appliances,Roomba i7+,13,436.18,5670.34,Europe,Credit Card
+667,04/04/2023,Home Appliances,Nespresso VertuoPlus,2,203.42,406.84,Asia,PayPal
+672,02/27/2021,Home Appliances,Breville Smart Oven,10,35.58,355.8,Asia,Credit Card
+673,11/16/2022,Home Appliances,KitchenAid Artisan Stand Mixer,58,344.28,19968.24,North America,PayPal
+682,02/03/2023,Home Appliances,Philips Airfryer XXL,72,58.93,4242.96,Asia,Debit Card
+687,06/10/2024,Home Appliances,Eufy RoboVac 11S,87,357.6,31111.2,Europe,Credit Card
+689,03/12/2024,Home Appliances,De'Longhi Magnifica Espresso Machine,45,25.4,1143,Europe,Debit Card
+706,10/29/2023,Home Appliances,Dyson Pure Cool Link,17,197.46,3356.82,North America,Debit Card
+714,06/24/2022,Home Appliances,LG OLED TV,15,324.51,4867.65,Asia,Debit Card
+717,02/10/2021,Home Appliances,Instant Pot Duo Crisp,28,334.87,9376.36,North America,Credit Card
+718,01/10/2023,Home Appliances,Vitamix Explorian Blender,51,278.71,14214.21,Asia,Debit Card
+722,05/09/2024,Home Appliances,Shark IQ Robot Vacuum,94,416.58,39158.52,Asia,PayPal
+724,04/06/2022,Home Appliances,Cuisinart Griddler Deluxe,8,152.66,1221.28,North America,PayPal
+729,06/30/2024,Home Appliances,Breville Smart Grill,92,469.32,43177.44,North America,Credit Card
+736,04/04/2023,Home Appliances,Hamilton Beach FlexBrew Coffee Maker,79,127.19,10048.01,Europe,PayPal
+743,10/13/2023,Home Appliances,Dyson Supersonic Hair Dryer,41,365.56,14987.96,North America,Credit Card
+745,12/25/2023,Home Appliances,Keurig K-Mini Coffee Maker,62,449.08,27842.96,Europe,Debit Card
+755,03/06/2023,Home Appliances,Instant Pot Ultra,95,474.22,45050.9,North America,Debit Card
+762,04/03/2023,Home Appliances,Cuisinart Coffee Center,15,466,6990,Asia,Credit Card
+766,02/10/2023,Home Appliances,Ninja Foodi Pressure Cooker,55,213.66,11751.3,Asia,Credit Card
+768,11/13/2023,Home Appliances,Breville Nespresso Creatista Plus,25,382.93,9573.25,North America,Credit Card
+769,09/24/2023,Home Appliances,Cuisinart Custom 14-Cup Food Processor,59,183.59,10831.81,Asia,Debit Card
+785,10/03/2024,Home Appliances,Instant Pot Duo Evo Plus,12,268.34,3220.08,Asia,Credit Card
+786,04/05/2021,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,47,202.01,9494.47,North America,PayPal
+787,01/01/2024,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,18,332.97,5993.46,North America,Debit Card
+789,09/07/2021,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,13,321.9,4184.7,Europe,Credit Card
+800,02/02/2023,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,22,16.95,372.9,Europe,Credit Card
+823,03/23/2022,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,56,404.33,22642.48,Europe,Debit Card
+826,06/15/2021,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,19,97.17,1846.23,Asia,Debit Card
+832,02/04/2024,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,8,448.37,3586.96,Asia,PayPal
+843,03/10/2021,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,64,25.98,1662.72,North America,Credit Card
+850,01/31/2023,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,27,291.18,7861.86,Europe,Credit Card
+870,11/13/2022,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,70,80.47,5632.9,Europe,PayPal
+875,08/21/2021,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,4,383.92,1535.68,North America,Debit Card
+877,12/12/2021,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,10,445.55,4455.5,Europe,PayPal
+900,12/20/2022,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,80,466.19,37295.2,Europe,Credit Card
+901,10/30/2021,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,58,201.99,11715.42,Asia,PayPal
+904,12/27/2022,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,24,299.31,7183.44,Asia,Debit Card
+913,06/10/2022,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,49,35.43,1736.07,Europe,Credit Card
+915,08/28/2024,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,83,161.94,13441.02,Europe,PayPal
+917,10/28/2023,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,24,323.91,7773.84,Europe,Credit Card
+919,07/08/2023,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,30,381.94,11458.2,Europe,PayPal
+920,01/20/2023,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,58,308.72,17905.76,North America,PayPal
+921,12/29/2021,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,31,449.06,13920.86,Europe,Credit Card
+922,07/21/2024,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,64,410.83,26293.12,Europe,Credit Card
+934,05/06/2021,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,75,213.09,15981.75,North America,Debit Card
+936,06/21/2022,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,45,20.13,905.85,North America,Debit Card
+946,08/16/2021,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,47,284.44,13368.68,Asia,PayPal
+948,02/03/2021,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,75,357.16,26787,Europe,PayPal
+952,08/18/2022,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,69,87.92,6066.48,Europe,PayPal
+955,11/23/2022,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,50,403.72,20186,Asia,Debit Card
+963,10/24/2022,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,42,114.56,4811.52,Europe,PayPal
+972,01/29/2023,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,49,246.43,12075.07,North America,PayPal
+974,08/31/2021,Home Appliances,Nespresso Vertuo Next Coffee and Espresso Maker,74,199.75,14781.5,Asia,PayPal
+982,09/07/2024,Home Appliances,Instant Pot Ultra,1,57.78,57.78,North America,Debit Card
+993,04/27/2023,Home Appliances,Cuisinart Coffee Center,84,360.06,30245.04,Asia,Debit Card
+2,12/30/2024,Sports,Rogue Fitness Kettlebell,60,145.1,8706,Asia,PayPal
+12,03/29/2021,Sports,Wilson Evolution Basketball,34,32.79,1114.86,Asia,Credit Card
+13,10/28/2024,Sports,Babolat Pure Drive Tennis Racket,36,313.65,11291.4,Europe,Debit Card
+15,05/22/2023,Sports,Manduka PRO Yoga Mat,39,179.5,7000.5,North America,Credit Card
+22,01/21/2022,Sports,Adidas FIFA World Cup Football,21,72.71,1526.91,Europe,Debit Card
+38,07/09/2021,Sports,Adidas FIFA World Cup Football,41,20.8,852.8,Europe,PayPal
+40,11/18/2022,Sports,Adidas FIFA World Cup Football,60,214.82,12889.2,Asia,PayPal
+43,06/21/2024,Sports,Adidas FIFA World Cup Football,84,277.1,23276.4,North America,Debit Card
+47,01/21/2021,Sports,Adidas FIFA World Cup Football,89,275.85,24550.65,Asia,Debit Card
+56,02/16/2023,Sports,Adidas FIFA World Cup Football,36,115.88,4171.68,Europe,Debit Card
+62,10/22/2024,Sports,Adidas FIFA World Cup Football,10,395.62,3956.2,Europe,PayPal
+64,12/22/2024,Sports,Adidas FIFA World Cup Football,14,184.43,2582.02,Europe,Debit Card
+71,10/23/2023,Sports,Adidas FIFA World Cup Football,1,381.63,381.63,Europe,PayPal
+73,11/14/2024,Sports,Adidas FIFA World Cup Football,20,18.79,375.8,North America,PayPal
+80,07/21/2021,Sports,Adidas FIFA World Cup Football,84,377.86,31740.24,Europe,Debit Card
+83,03/27/2023,Sports,Adidas FIFA World Cup Football,47,56.13,2638.11,Asia,Credit Card
+90,12/04/2021,Sports,Adidas FIFA World Cup Football,79,204.72,16172.88,Asia,Debit Card
+94,08/05/2021,Sports,Adidas FIFA World Cup Football,78,101.49,7916.22,Asia,Debit Card
+95,02/03/2023,Sports,Adidas FIFA World Cup Football,2,56.08,112.16,Europe,PayPal
+103,06/05/2022,Sports,Adidas FIFA World Cup Football,70,264.89,18542.3,Europe,PayPal
+107,12/23/2023,Sports,Adidas FIFA World Cup Football,51,310.6,15840.6,Asia,PayPal
+114,08/19/2021,Sports,Adidas FIFA World Cup Football,98,188.21,18444.58,Europe,Credit Card
+116,02/10/2021,Sports,Adidas FIFA World Cup Football,50,411.98,20599,Asia,Debit Card
+123,12/08/2023,Sports,Adidas FIFA World Cup Football,50,166.64,8332,North America,Debit Card
+124,05/18/2022,Sports,Adidas FIFA World Cup Football,23,494.32,11369.36,Europe,PayPal
+147,07/18/2022,Sports,Adidas FIFA World Cup Football,74,329.32,24369.68,North America,PayPal
+149,04/06/2021,Sports,Adidas FIFA World Cup Football,82,134.62,11038.84,Europe,Debit Card
+150,04/30/2022,Sports,Adidas FIFA World Cup Football,17,411.44,6994.48,Europe,PayPal
+152,08/19/2021,Sports,Adidas FIFA World Cup Football,8,267.46,2139.68,North America,Credit Card
+157,06/09/2022,Sports,Adidas FIFA World Cup Football,89,215.86,19211.54,Europe,Credit Card
+174,11/09/2024,Sports,Adidas FIFA World Cup Football,70,91.89,6432.3,North America,Credit Card
+177,09/25/2022,Sports,Adidas FIFA World Cup Football,33,45.61,1505.13,North America,Credit Card
+179,08/31/2023,Sports,Adidas FIFA World Cup Football,89,176.79,15734.31,North America,Debit Card
+182,12/11/2022,Sports,Adidas FIFA World Cup Football,73,186.59,13621.07,Asia,Credit Card
+186,06/02/2024,Sports,Adidas FIFA World Cup Football,68,382.03,25978.04,North America,Credit Card
+188,11/15/2022,Sports,Adidas FIFA World Cup Football,4,124.05,496.2,North America,PayPal
+191,06/10/2024,Sports,Adidas FIFA World Cup Football,98,450.44,44143.12,Asia,PayPal
+208,01/20/2022,Sports,Adidas FIFA World Cup Football,21,72.45,1521.45,Asia,Debit Card
+220,02/06/2023,Sports,Adidas FIFA World Cup Football,99,230.42,22811.58,Europe,Credit Card
+223,06/03/2023,Sports,Adidas FIFA World Cup Football,74,43.49,3218.26,North America,PayPal
+229,05/09/2024,Sports,Adidas FIFA World Cup Football,26,46.38,1205.88,North America,PayPal
+240,05/27/2021,Sports,Adidas FIFA World Cup Football,98,270.35,26494.3,Asia,PayPal
+241,03/17/2024,Sports,Adidas FIFA World Cup Football,48,420.69,20193.12,Europe,Credit Card
+247,05/22/2023,Sports,Adidas FIFA World Cup Football,48,332.82,15975.36,Europe,PayPal
+251,12/09/2024,Sports,Adidas FIFA World Cup Football,43,371.41,15970.63,Asia,PayPal
+252,08/14/2024,Sports,Adidas FIFA World Cup Football,21,267.37,5614.77,Europe,Credit Card
+257,10/14/2023,Sports,Adidas FIFA World Cup Football,25,22.32,558,North America,Credit Card
+261,08/20/2024,Sports,Adidas FIFA World Cup Football,15,237.57,3563.55,North America,PayPal
+265,03/29/2024,Sports,Adidas FIFA World Cup Football,86,93.59,8048.74,Europe,Credit Card
+269,01/28/2024,Sports,Adidas FIFA World Cup Football,68,323.41,21991.88,Europe,Credit Card
+270,03/27/2023,Sports,Adidas FIFA World Cup Football,52,341.45,17755.4,Europe,PayPal
+279,12/14/2024,Sports,Adidas FIFA World Cup Football,18,141.79,2552.22,Asia,PayPal
+291,04/02/2023,Sports,Polar Vantage V2,39,240.17,9366.63,North America,Debit Card
+300,03/04/2024,Sports,TRX All-in-One Suspension Training System,56,149.6,8377.6,Europe,Credit Card
+301,05/03/2024,Sports,GoPro HERO9 Black,36,236.8,8524.8,Europe,Debit Card
+306,04/05/2022,Sports,Yeti Tundra Haul Portable Wheeled Cooler,1,146.13,146.13,North America,Credit Card
+308,04/15/2022,Sports,Bose SoundLink Color Bluetooth Speaker II,45,149.44,6724.8,North America,Debit Card
+332,01/17/2021,Sports,YETI Tundra 65 Cooler,19,416.5,7913.5,North America,Debit Card
+333,04/10/2024,Sports,Garmin Forerunner 945,60,29.87,1792.2,Asia,PayPal
+341,11/27/2023,Sports,Fitbit Luxe,97,279.3,27092.1,North America,Debit Card
+345,10/29/2021,Sports,Hydro Flask Standard Mouth Water Bottle,49,377.43,18494.07,Europe,Credit Card
+347,08/30/2022,Sports,Yeti Rambler 20 oz Tumbler,98,326.59,32005.82,Europe,Credit Card
+352,07/10/2021,Sports,Bose SoundLink Color Bluetooth Speaker II,48,78.05,3746.4,Europe,PayPal
+358,09/08/2024,Sports,Wilson Evolution Basketball,32,269.7,8630.4,Europe,Debit Card
+359,05/08/2021,Sports,Babolat Pure Drive Tennis Racket,11,416.22,4578.42,Asia,PayPal
+361,07/20/2022,Sports,Manduka PRO Yoga Mat,73,411.81,30062.13,Europe,Credit Card
+370,05/05/2022,Sports,Adidas FIFA World Cup Football,85,238.64,20284.4,Asia,Credit Card
+376,04/14/2024,Sports,Nike Air Zoom Pegasus 37,75,48.03,3602.25,North America,PayPal
+381,02/12/2022,Sports,Peloton Bike,68,198.28,13483.04,North America,PayPal
+386,11/16/2022,Sports,Fitbit Charge 5,36,445.93,16053.48,Europe,PayPal
+390,02/04/2022,Sports,Yeti Rambler Tumbler,73,202.56,14786.88,Europe,PayPal
+403,02/23/2024,Sports,Titleist Pro V1 Golf Balls,27,397.94,10744.38,Asia,Debit Card
+405,11/10/2021,Sports,Hyperice Hypervolt Massager,21,59.62,1252.02,North America,PayPal
+408,11/01/2021,Sports,Wilson Evolution Basketball,50,422.44,21122,North America,Credit Card
+424,09/19/2023,Sports,Wilson Evolution Basketball,8,82.06,656.48,North America,PayPal
+426,10/05/2024,Sports,Wilson Evolution Basketball,44,73.72,3243.68,Asia,Debit Card
+427,02/16/2021,Sports,Wilson Evolution Basketball,58,419.39,24324.62,North America,Debit Card
+438,04/11/2023,Sports,Wilson Evolution Basketball,55,485.66,26711.3,North America,Credit Card
+463,09/04/2021,Sports,Wilson Evolution Basketball,16,157.24,2515.84,Asia,Debit Card
+464,01/05/2024,Sports,Wilson Evolution Basketball,76,169.65,12893.4,North America,Debit Card
+479,05/12/2024,Sports,Wilson Evolution Basketball,52,279.17,14516.84,Asia,Credit Card
+484,12/07/2021,Sports,Wilson Evolution Basketball,82,485.11,39779.02,Asia,Credit Card
+485,07/05/2022,Sports,Wilson Evolution Basketball,55,475.06,26128.3,Asia,Debit Card
+499,09/10/2024,Sports,Wilson Evolution Basketball,35,448.28,15689.8,Asia,PayPal
+501,11/06/2023,Sports,Wilson Evolution Basketball,88,227.29,20001.52,North America,Credit Card
+509,11/21/2022,Sports,Wilson Evolution Basketball,14,323.7,4531.8,Europe,PayPal
+516,04/06/2024,Sports,Wilson Evolution Basketball,2,118.17,236.34,North America,PayPal
+530,08/28/2022,Sports,Wilson Evolution Basketball,14,495.37,6935.18,Europe,Debit Card
+538,01/04/2024,Sports,Wilson Evolution Basketball,6,43.82,262.92,North America,PayPal
+543,07/24/2024,Sports,Wilson Evolution Basketball,21,443.37,9310.77,North America,Debit Card
+550,07/11/2021,Sports,Wilson Evolution Basketball,60,22,1320,Asia,PayPal
+553,09/05/2023,Sports,Wilson Evolution Basketball,96,319.72,30693.12,Europe,Debit Card
+556,10/25/2022,Sports,Wilson Evolution Basketball,31,12.98,402.38,Europe,PayPal
+563,05/23/2023,Sports,Wilson Evolution Basketball,6,244.35,1466.1,North America,Debit Card
+568,09/27/2024,Sports,Wilson Evolution Basketball,60,433.07,25984.2,Europe,Debit Card
+572,06/26/2021,Sports,Wilson Evolution Basketball,5,140.42,702.1,North America,Credit Card
+573,01/31/2022,Sports,Wilson Evolution Basketball,83,20.79,1725.57,North America,PayPal
+577,09/22/2021,Sports,Wilson Evolution Basketball,2,117.44,234.88,Asia,Debit Card
+582,05/01/2023,Sports,Wilson Evolution Basketball,79,102.04,8061.16,North America,Debit Card
+595,11/29/2023,Sports,YETI Tundra 45 Cooler,97,68.78,6671.66,Europe,PayPal
+596,04/19/2021,Sports,Bose SoundSport Wireless Earbuds,4,459.23,1836.92,North America,PayPal
+598,04/24/2024,Sports,Garmin Forerunner 245,40,206.71,8268.4,Asia,PayPal
+607,08/23/2021,Sports,TriggerPoint GRID Foam Roller,63,393.68,24801.84,Asia,Debit Card
+611,10/30/2023,Sports,Yeti Rambler Bottle,27,295.8,7986.6,Europe,Credit Card
+621,11/17/2024,Sports,Bowflex SelectTech 1090 Adjustable Dumbbells,91,290.19,26407.29,North America,Credit Card
+624,09/26/2022,Sports,Oakley Holbrook Sunglasses,21,216.97,4556.37,North America,PayPal
+637,03/01/2024,Sports,TriggerPoint GRID Foam Roller,45,99.58,4481.1,Asia,Credit Card
+641,03/21/2022,Sports,TriggerPoint GRID Foam Roller,99,472.55,46782.45,Asia,Credit Card
+647,02/08/2021,Sports,TriggerPoint GRID Foam Roller,55,254.3,13986.5,Europe,Credit Card
+669,07/23/2023,Sports,TriggerPoint GRID Foam Roller,48,71.6,3436.8,Europe,PayPal
+674,11/03/2022,Sports,TriggerPoint GRID Foam Roller,60,239.4,14364,Asia,PayPal
+684,06/04/2024,Sports,TriggerPoint GRID Foam Roller,79,128.53,10153.87,Asia,Credit Card
+694,04/16/2022,Sports,TriggerPoint GRID Foam Roller,65,365.18,23736.7,Asia,PayPal
+709,11/07/2022,Sports,TriggerPoint GRID Foam Roller,21,223.4,4691.4,North America,Credit Card
+721,03/14/2024,Sports,TriggerPoint GRID Foam Roller,5,278.01,1390.05,Europe,Debit Card
+725,01/02/2023,Sports,TriggerPoint GRID Foam Roller,64,111.48,7134.72,Europe,Debit Card
+731,06/02/2023,Sports,TriggerPoint GRID Foam Roller,95,241.97,22987.15,Asia,Credit Card
+740,05/27/2023,Sports,TriggerPoint GRID Foam Roller,36,285.03,10261.08,North America,Debit Card
+742,02/17/2024,Sports,TriggerPoint GRID Foam Roller,78,110.44,8614.32,Europe,Debit Card
+748,06/16/2024,Sports,TriggerPoint GRID Foam Roller,36,145.36,5232.96,Europe,PayPal
+751,07/29/2024,Sports,TriggerPoint GRID Foam Roller,2,454.15,908.3,Europe,PayPal
+760,01/20/2022,Sports,TriggerPoint GRID Foam Roller,11,348.1,3829.1,Asia,Debit Card
+763,06/02/2022,Sports,TriggerPoint GRID Foam Roller,17,253.68,4312.56,Asia,PayPal
+765,12/10/2022,Sports,TriggerPoint GRID Foam Roller,18,31.84,573.12,North America,PayPal
+770,11/08/2022,Sports,TriggerPoint GRID Foam Roller,78,475.04,37053.12,Asia,Debit Card
+782,05/31/2023,Sports,TriggerPoint GRID Foam Roller,32,340.43,10893.76,Europe,Debit Card
+788,06/03/2021,Sports,TriggerPoint GRID Foam Roller,21,63.36,1330.56,Europe,Credit Card
+801,02/05/2022,Sports,TriggerPoint GRID Foam Roller,92,416.4,38308.8,Europe,Debit Card
+803,02/06/2023,Sports,TriggerPoint GRID Foam Roller,13,183.97,2391.61,Asia,Debit Card
+808,05/03/2023,Sports,TriggerPoint GRID Foam Roller,79,202.47,15995.13,North America,Debit Card
+816,03/17/2023,Sports,TriggerPoint GRID Foam Roller,44,384.15,16902.6,North America,Debit Card
+825,09/06/2021,Sports,TriggerPoint GRID Foam Roller,63,405.96,25575.48,Asia,PayPal
+836,06/19/2023,Sports,TriggerPoint GRID Foam Roller,1,495.14,495.14,Europe,Debit Card
+842,09/11/2023,Sports,TriggerPoint GRID Foam Roller,96,54.45,5227.2,North America,Credit Card
+853,04/05/2021,Sports,TriggerPoint GRID Foam Roller,13,452.1,5877.3,North America,PayPal
+855,06/19/2023,Sports,TriggerPoint GRID Foam Roller,36,487.44,17547.84,North America,PayPal
+856,12/26/2021,Sports,TriggerPoint GRID Foam Roller,86,23.48,2019.28,North America,Credit Card
+858,10/08/2021,Sports,TriggerPoint GRID Foam Roller,58,378.37,21945.46,Asia,Credit Card
+863,11/03/2022,Sports,Hydro Flask Wide Mouth Water Bottle,14,120.2,1682.8,Asia,Credit Card
+866,12/11/2023,Sports,Fitbit Inspire 2,20,286.03,5720.6,Asia,PayPal
+867,11/27/2024,Sports,YETI Tundra 45 Cooler,75,219.48,16461,North America,Credit Card
+876,06/08/2022,Sports,Bose SoundSport Wireless Earbuds,20,413.35,8267,Asia,PayPal
+878,12/06/2023,Sports,Garmin Forerunner 245,24,276.81,6643.44,Asia,Credit Card
+879,06/30/2022,Sports,TriggerPoint GRID Foam Roller,99,110.19,10908.81,Asia,Credit Card
+885,02/19/2024,Sports,Yeti Rambler Bottle,74,188.53,13951.22,Asia,PayPal
+888,12/16/2023,Sports,Bowflex SelectTech 1090 Adjustable Dumbbells,4,235.4,941.6,North America,Credit Card
+894,11/16/2023,Sports,Manduka PRO Yoga Mat,71,182.78,12977.38,Asia,PayPal
+895,03/15/2023,Sports,Yeti Rambler Bottle,4,414.15,1656.6,North America,Debit Card
+896,07/04/2024,Sports,Yeti Rambler Bottle,93,262.67,24428.31,North America,PayPal
+909,05/24/2024,Sports,Yeti Rambler Bottle,31,109.75,3402.25,Europe,Credit Card
+914,11/30/2022,Sports,Yeti Rambler Bottle,63,103.65,6529.95,Europe,Debit Card
+916,06/02/2023,Sports,Yeti Rambler Bottle,22,368.55,8108.1,North America,PayPal
+918,10/24/2023,Sports,Yeti Rambler Bottle,76,213.81,16249.56,Asia,Debit Card
+929,12/15/2022,Sports,Yeti Rambler Bottle,97,118.04,11449.88,Asia,Debit Card
+931,07/20/2024,Sports,Yeti Rambler Bottle,63,275.81,17376.03,Asia,Credit Card
+938,05/20/2024,Sports,Yeti Rambler Bottle,17,263.62,4481.54,Europe,Debit Card
+940,11/18/2024,Sports,Yeti Rambler Bottle,4,317.93,1271.72,Europe,Credit Card
+945,04/21/2021,Sports,Yeti Rambler Bottle,70,73.67,5156.9,North America,Credit Card
+947,04/21/2021,Sports,Yeti Rambler Bottle,78,392.56,30619.68,Europe,PayPal
+953,03/01/2022,Sports,Yeti Rambler Bottle,61,98.3,5996.3,North America,PayPal
+956,07/29/2024,Sports,Yeti Rambler Bottle,3,69.79,209.37,North America,Debit Card
+965,09/16/2022,Sports,Yeti Rambler Bottle,46,87.09,4006.14,Europe,PayPal
+973,06/18/2023,Sports,Yeti Rambler Bottle,21,258.27,5423.67,North America,Credit Card
+976,11/30/2023,Sports,Yeti Rambler Bottle,5,17.87,89.35,Europe,PayPal
+987,04/28/2021,Sports,Yeti Rambler Bottle,54,274.96,14847.84,Europe,Debit Card
+991,07/28/2022,Sports,Yeti Rambler Bottle,57,68.06,3879.42,Europe,PayPal
+1000,11/22/2021,Sports,Yeti Rambler Bottle,30,165.11,4953.3,North America,Debit Card
